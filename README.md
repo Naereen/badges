@@ -7,7 +7,7 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 - [ ] Update all my README.md to add nice badges
 
 ## Issues
-- [ ] Smaller size (badge size) for some [ForTheBadge.com](http://ForTheBadge.com) badges?
+- [ ] Smaller size (badge size) for some [ForTheBadge.com](http://ForTheBadge.com) badges? (with-science, winter-is-coming, made-with-python, all the creative-commons)
 
 ## Possible TODO?
 - [ ] Download here a copy of every png/svg file, *only* for the static badges
@@ -20,81 +20,6 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)]()
 ```markdown
 [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)]()
-```
-
-## Licenses
-### MIT License
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
-```markdown
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
-```
-
-### GPLv3 License
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](perso.crans.org/besson/LICENSE.html)
-```markdown
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](perso.crans.org/besson/LICENSE.html)
-```
-
-[![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)](perso.crans.org/besson/LICENSE.html)
-```markdown
-[![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)](perso.crans.org/besson/LICENSE.html)
-```
-
-### [Creative Commons Licenses](https://creativecommons.org/licenses/)
-
-[![CC-0 license](https://img.shields.io/badge/License-CC-0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
-```markdown
-[![CC-0 license](https://img.shields.io/badge/License-CC-0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
-```
-
-[![forthebadge cc-0](http://ForTheBadge.com/images/badges/cc-0.svg)](http://forthebadge.com)
-```markdown
-[![forthebadge cc-0](http://ForTheBadge.com/images/badges/cc-0.svg)](http://forthebadge.com)
-```
-
-[![licensebuttons by-nd](https://licensebuttons.net/l/by-nd/3.0/88x31.png)](https://creativecommons.org/licenses/by-nd/4.0)
-```markdown
-[![licensebuttons by-nd](https://licensebuttons.net/l/by-nd/3.0/88x31.png)](https://creativecommons.org/licenses/by-nd/4.0)
-```
-[![forthebadge cc-by-nd](http://ForTheBadge.com/images/badges/cc-by-nd.svg)](https://creativecommons.org/licenses/by-nd/4.0)
-```markdown
-[![forthebadge cc-by-nd](http://ForTheBadge.com/images/badges/cc-by-nd.svg)](https://creativecommons.org/licenses/by-nd/4.0)
-```
-
-[![licensebuttons by](https://licensebuttons.net/l/by/3.0/88x31.png)](https://creativecommons.org/licenses/by/4.0)
-```markdown
-[![licensebuttons by](https://licensebuttons.net/l/by/3.0/88x31.png)](https://creativecommons.org/licenses/by/4.0)
-```
-[![forthebadge cc-by](http://ForTheBadge.com/images/badges/cc-by.svg)](https://creativecommons.org/licenses/by/4.0)
-```markdown
-[![forthebadge cc-by](http://ForTheBadge.com/images/badges/cc-by.svg)](https://creativecommons.org/licenses/by/4.0)
-```
-
-[![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
-```markdown
-[![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
-```
-[![forthebadge cc-nc-sa](http://ForTheBadge.com/images/badges/cc-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0)
-```markdown
-[![forthebadge cc-nc-sa](http://ForTheBadge.com/images/badges/cc-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0)
-```
-
-[![licensebuttons by-nc](https://licensebuttons.net/l/by-nc/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0)
-```markdown
-[![licensebuttons by-nc](https://licensebuttons.net/l/by-nc/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0)
-```
-[![forthebadge cc-nc](http://ForTheBadge.com/images/badges/cc-nc.svg)](https://creativecommons.org/licenses/by-nc/4.0)
-```markdown
-[![forthebadge cc-nc](http://ForTheBadge.com/images/badges/cc-nc.svg)](https://creativecommons.org/licenses/by-nc/4.0)
-```
-
-[![licensebuttons by-sa](https://licensebuttons.net/l/by-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0)
-```markdown
-[![licensebuttons by-sa](https://licensebuttons.net/l/by-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0)
-```
-[![forthebadge cc-sa](http://ForTheBadge.com/images/badges/cc-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0)
-```markdown
-[![forthebadge cc-sa](http://ForTheBadge.com/images/badges/cc-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0)
 ```
 
 ----
@@ -373,6 +298,81 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 [![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/badges/README.md)](https://GitHub.com/Naereen/badges/)
 ```markdown
 [![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/badges/README.md)](https://GitHub.com/Naereen/badges/)
+```
+
+## Licenses
+### MIT License
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+```markdown
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+```
+
+### GPLv3 License
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](perso.crans.org/besson/LICENSE.html)
+```markdown
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](perso.crans.org/besson/LICENSE.html)
+```
+
+[![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)](perso.crans.org/besson/LICENSE.html)
+```markdown
+[![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)](perso.crans.org/besson/LICENSE.html)
+```
+
+### [Creative Commons Licenses](https://creativecommons.org/licenses/)
+
+[![CC-0 license](https://img.shields.io/badge/License-CC-0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
+```markdown
+[![CC-0 license](https://img.shields.io/badge/License-CC-0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
+```
+
+[![forthebadge cc-0](http://ForTheBadge.com/images/badges/cc-0.svg)](http://forthebadge.com)
+```markdown
+[![forthebadge cc-0](http://ForTheBadge.com/images/badges/cc-0.svg)](http://forthebadge.com)
+```
+
+[![licensebuttons by-nd](https://licensebuttons.net/l/by-nd/3.0/88x31.png)](https://creativecommons.org/licenses/by-nd/4.0)
+```markdown
+[![licensebuttons by-nd](https://licensebuttons.net/l/by-nd/3.0/88x31.png)](https://creativecommons.org/licenses/by-nd/4.0)
+```
+[![forthebadge cc-by-nd](http://ForTheBadge.com/images/badges/cc-by-nd.svg)](https://creativecommons.org/licenses/by-nd/4.0)
+```markdown
+[![forthebadge cc-by-nd](http://ForTheBadge.com/images/badges/cc-by-nd.svg)](https://creativecommons.org/licenses/by-nd/4.0)
+```
+
+[![licensebuttons by](https://licensebuttons.net/l/by/3.0/88x31.png)](https://creativecommons.org/licenses/by/4.0)
+```markdown
+[![licensebuttons by](https://licensebuttons.net/l/by/3.0/88x31.png)](https://creativecommons.org/licenses/by/4.0)
+```
+[![forthebadge cc-by](http://ForTheBadge.com/images/badges/cc-by.svg)](https://creativecommons.org/licenses/by/4.0)
+```markdown
+[![forthebadge cc-by](http://ForTheBadge.com/images/badges/cc-by.svg)](https://creativecommons.org/licenses/by/4.0)
+```
+
+[![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
+```markdown
+[![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
+```
+[![forthebadge cc-nc-sa](http://ForTheBadge.com/images/badges/cc-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0)
+```markdown
+[![forthebadge cc-nc-sa](http://ForTheBadge.com/images/badges/cc-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0)
+```
+
+[![licensebuttons by-nc](https://licensebuttons.net/l/by-nc/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0)
+```markdown
+[![licensebuttons by-nc](https://licensebuttons.net/l/by-nc/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0)
+```
+[![forthebadge cc-nc](http://ForTheBadge.com/images/badges/cc-nc.svg)](https://creativecommons.org/licenses/by-nc/4.0)
+```markdown
+[![forthebadge cc-nc](http://ForTheBadge.com/images/badges/cc-nc.svg)](https://creativecommons.org/licenses/by-nc/4.0)
+```
+
+[![licensebuttons by-sa](https://licensebuttons.net/l/by-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0)
+```markdown
+[![licensebuttons by-sa](https://licensebuttons.net/l/by-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0)
+```
+[![forthebadge cc-sa](http://ForTheBadge.com/images/badges/cc-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0)
+```markdown
+[![forthebadge cc-sa](http://ForTheBadge.com/images/badges/cc-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0)
 ```
 
 ----
