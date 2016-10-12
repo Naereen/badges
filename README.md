@@ -6,6 +6,9 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 - [X] Update link for the *real ressource* that should get linked to
 - [ ] Update all my README.md to add nice badges
 
+## Issues
+- [ ] Smaller size (badge size) for some [ForTheBadge.com](http://ForTheBadge.com) badges?
+
 ## Possible TODO?
 - [ ] Download here a copy of every png/svg file, *only* for the static badges
 - [ ] Host the badges in this repo, and not on an external web service ?
@@ -365,6 +368,11 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 [![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/badges/README.md?pixel)](https://GitHub.com/Naereen/badges/)
 ```markdown
 [![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/badges/README.md?pixel)](https://GitHub.com/Naereen/badges/)
+```
+
+[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/badges/README.md)](https://GitHub.com/Naereen/badges/)
+```markdown
+[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/badges/README.md)](https://GitHub.com/Naereen/badges/)
 ```
 
 ----
