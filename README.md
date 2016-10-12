@@ -2,10 +2,13 @@
 A list of badges, with their Markdown code, that can be included in a `README.md` file for a GitHub or Bitbucket project.
 
 ## TODO
-- [ ] Finish this list
-- [ ] Update link for the *real ressource* that should get linked to
-- [ ] Download here a copy of every png/svg file
-- [ ] Host the badges in this repo, and not the web service
+- [X] Finish this list
+- [X] Update link for the *real ressource* that should get linked to
+- [ ] Update all my README.md to add nice badges
+
+## Possible TODO?
+- [ ] Download here a copy of every png/svg file, *only* for the static badges
+- [ ] Host the badges in this repo, and not on an external web service ?
 - [ ] Update my README.md to link to *"my"* badges
 
 ----
