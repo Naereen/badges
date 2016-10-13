@@ -26,14 +26,14 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 
 ## Useful
 ### Maintained?
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 ```markdown
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 ```
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansicolors)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 ```markdown
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansicolors)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 ```
 
 ### [Website up/down](http://isup.me/)
@@ -379,73 +379,73 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 
 ## Random
 ### Ages 20-30...
-[![forthebadge](http://ForTheBadge.com/images/badges/ages-20-30.svg)](http://forthebadge.com)
+[![ForTheBadge 20-30](http://ForTheBadge.com/images/badges/ages-20-30.svg)](http://forthebadge.com)
 ```markdown
-[![forthebadge](http://ForTheBadge.com/images/badges/ages-20-30.svg)](http://forthebadge.com)
+[![ForTheBadge 20-30](http://ForTheBadge.com/images/badges/ages-20-30.svg)](http://forthebadge.com)
 ```
 
 ### Built by...
-[![forthebadge](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
 ```markdown
-[![forthebadge](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
 ```
 
 ### Built with...
-[![forthebadge](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 ```markdown
-[![forthebadge](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 ```
 
-[![forthebadge](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://GitHub.com/Naereen/)
 ```markdown
-[![forthebadge](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://GitHub.com/Naereen/)
 ```
 
-[![forthebadge](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
 ```markdown
-[![forthebadge](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
 ```
 
 ### Uses...
-[![forthebadge](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://forthebadge.com)
+[![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://forthebadge.com)
 ```markdown
-[![forthebadge](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://forthebadge.com)
+[![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://forthebadge.com)
 ```
 
-[![forthebadge](http://ForTheBadge.com/images/badges/uses-css.svg)](http://forthebadge.com)
+[![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://forthebadge.com)
 ```markdown
-[![forthebadge](http://ForTheBadge.com/images/badges/uses-css.svg)](http://forthebadge.com)
+[![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://forthebadge.com)
 ```
 
-[![forthebadge](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
+[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
 ```markdown
-[![forthebadge](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
+[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
 ```
 
-[![forthebadge](http://ForTheBadge.com/images/badges/uses-html.svg)](http://forthebadge.com)
+[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://forthebadge.com)
 ```markdown
-[![forthebadge](http://ForTheBadge.com/images/badges/uses-html.svg)](http://forthebadge.com)
+[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://forthebadge.com)
 ```
 
-[![forthebadge](http://ForTheBadge.com/images/badges/uses-js.svg)](http://forthebadge.com)
+[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://forthebadge.com)
 ```markdown
-[![forthebadge](http://ForTheBadge.com/images/badges/uses-js.svg)](http://forthebadge.com)
+[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://forthebadge.com)
 ```
 
 ### Fun
-[![forthebadge](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://forthebadge.com)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://forthebadge.com)
 ```markdown
-[![forthebadge](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://forthebadge.com)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://forthebadge.com)
 ```
 
-[![forthebadge](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
+[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
 ```markdown
-[![forthebadge](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
+[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
 ```
 
-[![forthebadge](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://forthebadge.com)
+[![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://forthebadge.com)
 ```markdown
-[![forthebadge](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://forthebadge.com)
+[![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://forthebadge.com)
 ```
 
 ----
@@ -455,13 +455,14 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 - [Shields.io](https://shields.io)
 - [LicenseButtons.net](https://licensebuttons.net/)
 
-## :scroll: License ?
+## :scroll: License ? [![GitHub license](https://img.shields.io/github/license/Naereen/badges.svg)](https://github.com/Naereen/badges/blob/master/LICENSE)
 [MIT Licensed](https://lbesson.mit-license.org/) (file [LICENSE.txt](LICENSE.txt)).
 © [Lilian Besson](https://GitHub.com/Naereen), 2016-17.
-[![GitHub license](https://img.shields.io/github/license/Naereen/badges.svg)](https://github.com/Naereen/badges/blob/master/LICENSE)
 
-[![forthebadge](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
-[![forthebadge](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://forthebadge.com)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js)
+[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://forthebadge.com)
+[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](http://forthebadge.com)
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/badges/graphs/commit-activity)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 [![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/badges/README.md?pixel)](https://GitHub.com/Naereen/badges/)
