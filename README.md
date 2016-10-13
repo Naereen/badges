@@ -4,7 +4,7 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 ## TODO
 - [X] Finish this list
 - [X] Update link for the *real ressource* that should get linked to
-- [ ] Update all my README.md to add nice badges
+- [X] Update all my README.md to add nice badges
 
 ## Issues
 - [ ] Smaller size (badge size) for some [ForTheBadge.com](http://ForTheBadge.com) badges? (with-science, winter-is-coming, made-with-python, all the creative-commons)
@@ -98,6 +98,20 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 ```markdown
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+```
+
+----
+
+## [LaTeX](https://www.latex-project.org/) related
+
+[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
+```markdown
+[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
+```
+
+[![made-with-mathjax](https://img.shields.io/badge/Made%20with-MathJax-1f425f.svg)](https://www.mathjax.org/)
+```markdown
+[![made-with-mathjax](https://img.shields.io/badge/Made%20with-MathJax-1f425f.svg)](https://www.mathjax.org/)
 ```
 
 ### [PyPI](https://pypi.python.org/) downloads
