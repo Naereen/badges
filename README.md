@@ -295,7 +295,9 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 
 ----
 
-## Analytics
+## [Google Analytics](https://analytics.google.com/)
+> **Warning**: don't forget to change your Google Analytics code, from `UA-XXXXXXXX-XX` to yourse!
+
 [![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/badges/README.md?pixel)](https://GitHub.com/Naereen/badges/)
 ```markdown
 [![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/badges/README.md?pixel)](https://GitHub.com/Naereen/badges/)
