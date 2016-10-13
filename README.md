@@ -458,6 +458,10 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 ## :scroll: License ?
 [MIT Licensed](https://lbesson.mit-license.org/) (file [LICENSE.txt](LICENSE.txt)).
 © [Lilian Besson](https://GitHub.com/Naereen), 2016-17.
+[![GitHub license](https://img.shields.io/github/license/Naereen/badges.svg)](https://github.com/Naereen/badges/blob/master/LICENSE)
 
-[![Ask Me Anything](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+[![forthebadge](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
+[![forthebadge](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://forthebadge.com)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 [![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/badges/README.md?pixel)](https://GitHub.com/Naereen/badges/)
