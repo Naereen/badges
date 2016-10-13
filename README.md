@@ -255,6 +255,12 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 [![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/pull/)
 ```
 
+### GitHub file size
+[![Only 32 Kb](https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js)](https://github.com/Naereen/StrapDown.js/master/strapdown.min.js)
+```markdown
+[![Only 32 Kb](https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js)](https://github.com/Naereen/StrapDown.js/master/strapdown.min.js)
+```
+
 ----
 
 ## Bitbucket related
