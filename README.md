@@ -136,6 +136,11 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 ```
 
 ### [PyPI](https://pypi.python.org/) version
+[![PyPI version](https://badge.fury.io/py/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+```markdown
+[![PyPI version](https://badge.fury.io/py/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+```
+
 [![PyPI version](https://img.shields.io/pypi/v/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 ```markdown
 [![PyPI version](https://img.shields.io/pypi/v/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
@@ -275,6 +280,13 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 [![Only 32 Kb](https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js)](https://github.com/Naereen/StrapDown.js/master/strapdown.min.js)
 ```
 
+### GitHub version
+[![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js)
+```markdown
+[![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js)
+```
+
+
 ----
 
 ## Bitbucket related
@@ -342,9 +354,9 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 
 ### [Creative Commons Licenses](https://creativecommons.org/licenses/)
 
-[![CC-0 license](https://img.shields.io/badge/License-CC-0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
+[![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
 ```markdown
-[![CC-0 license](https://img.shields.io/badge/License-CC-0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
+[![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
 ```
 
 [![forthebadge cc-0](http://ForTheBadge.com/images/badges/cc-0.svg)](http://ForTheBadge.com)
