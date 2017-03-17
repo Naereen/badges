@@ -484,7 +484,7 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 
 ----
 
-## :notebook: References
+## :notebook: References ?
 - [ForTheBadge.com](http://ForTheBadge.com/)
 - [Shields.io](https://shields.io)
 - [LicenseButtons.net](https://licensebuttons.net/)
