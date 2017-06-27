@@ -592,7 +592,7 @@ Bitbucket Watchers
 
    <iframe src="https://lbesson.bitbucket.io/bbbtns/bitbucket-btn.html?user=lbesson&amp;repo=lbesson.bitbucket.org&amp;type=watch&amp;count=true&amp;size=large" allowtransparency="true" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
 
-.. raw:: rst
+.. code:: rst
 
    .. raw:: html
 
@@ -606,7 +606,7 @@ Bitbucket Fork
 
    <iframe src="https://lbesson.bitbucket.io/bbbtns/bitbucket-btn.html?user=lbesson&amp;repo=lbesson.bitbucket.org&amp;type=fork&amp;count=true&amp;size=large" allowtransparency="true" frameborder="0" scrolling="0" width="156px" height="30px"></iframe>
 
-.. raw:: rst
+.. code:: rst
 
    .. raw:: html
 
@@ -620,7 +620,7 @@ Bitbucket Follow
 
    <iframe src="https://lbesson.bitbucket.io/bbbtns/bitbucket-btn.html?user=lbesson&amp;type=follow&amp;count=true&amp;size=large" allowtransparency="true" frameborder="0" scrolling="0" width="224px" height="30px"></iframe>
 
-.. raw:: rst
+.. code:: rst
 
    .. raw:: html
 
