@@ -573,7 +573,6 @@ Version 3, in PNG:
 ## Possible TODO?
 - [ ] Download here a copy of every png/svg file, *only* for the static badges
 - [ ] Host the badges in this repo, and not on an external web service ?
-- [ ] Update my README.md to link to *"my"* badges
 
 ## :scroll: License ? [![GitHub license](https://img.shields.io/github/license/Naereen/badges.svg)](https://github.com/Naereen/badges/blob/master/LICENSE)
 [MIT Licensed](https://lbesson.mit-license.org/) (file [LICENSE](LICENSE)).
