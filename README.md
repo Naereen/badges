@@ -1,25 +1,14 @@
-# List of Badges
+# List of Badges, in Markdown
 A list of badges, with their Markdown code, that can be included in a `README.md` file for a GitHub or Bitbucket project.
 
-## TODO
-- [X] Finish this list
-- [X] Update link for the *real ressource* that should get linked to
-- [X] Update all my README.md to add nice badges
-
-## Issues
-- [ ] Smaller size (badge size) for some [ForTheBadge.com](http://ForTheBadge.com) badges? (with-science, winter-is-coming, made-with-python, all the creative-commons)
-
-## Possible TODO?
-- [ ] Download here a copy of every png/svg file, *only* for the static badges
-- [ ] Host the badges in this repo, and not on an external web service ?
-- [ ] Update my README.md to link to *"my"* badges
+> The same file for [reStructuredText](http://docutils.sourceforge.net/rst.html) code is available here: [README.rst](README.rst).
 
 ----
 
 ## Generic
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)]()
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 ```markdown
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)]()
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 ```
 
 ----
@@ -100,6 +89,25 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 ```
 
+[![made-with-sphinx-doc](https://img.shields.io/badge/Made%20with-Sphinx-1f425f.svg)](https://www.sphinx-doc.org/)
+```markdown
+[![made-with-sphinx-doc](https://img.shields.io/badge/Made%20with-Sphinx-1f425f.svg)](https://www.sphinx-doc.org/)
+```
+
+----
+
+## [Markdown](http://commonmark.org) related
+
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+```markdown
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+```
+
+[![made-with-StrapDown.js](https://img.shields.io/badge/Made%20with-StrapDown.js-1f425f.svg)](https://GitHub.com/Naereen/StrapDown.js/)
+```markdown
+[![made-with-StrapDown.js](https://img.shields.io/badge/Made%20with-StrapDown.js-1f425f.svg)](https://GitHub.com/Naereen/StrapDown.js/)
+```
+
 ----
 
 ## [LaTeX](https://www.latex-project.org/) related
@@ -113,6 +121,8 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 ```markdown
 [![made-with-mathjax](https://img.shields.io/badge/Made%20with-MathJax-1f425f.svg)](https://www.mathjax.org/)
 ```
+
+----
 
 ### [PyPI](https://pypi.python.org/) downloads
 [![PyPI download total](https://img.shields.io/pypi/dt/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
@@ -136,14 +146,14 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 ```
 
 ### [PyPI](https://pypi.python.org/) version
-[![PyPI version](https://badge.fury.io/py/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+[![PyPI version fury.io](https://badge.fury.io/py/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 ```markdown
-[![PyPI version](https://badge.fury.io/py/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+[![PyPI version fury.io](https://badge.fury.io/py/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 ```
 
-[![PyPI version](https://img.shields.io/pypi/v/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+[![PyPI version shields.io](https://img.shields.io/pypi/v/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 ```markdown
-[![PyPI version](https://img.shields.io/pypi/v/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+[![PyPI version shields.io](https://img.shields.io/pypi/v/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 ```
 
 ### [PyPI](https://pypi.python.org/) license
@@ -174,6 +184,20 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 [![PyPI status](https://img.shields.io/pypi/status/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 ```markdown
 [![PyPI status](https://img.shields.io/pypi/status/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+```
+
+----
+
+## [GNU Bash](https://www.gnu.org/software/bash/)
+
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+```markdown
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+```
+
+[![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
+```markdown
+[![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
 ```
 
 ----
@@ -296,6 +320,15 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 [![Bitbucket issues](https://img.shields.io/bitbucket/issues/lbesson/bin.svg)](https://Bitbucket.org/lbesson/bin/issues/)
 ```
 
+### Bitbucket Watchers
+<iframe src="https://lbesson.bitbucket.io/bbbtns/bitbucket-btn.html?user=lbesson&repo=lbesson.bitbucket.org&type=watch&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+
+### Bitbucket Fork
+<iframe src="https://lbesson.bitbucket.io/bbbtns/bitbucket-btn.html?user=lbesson&repo=lbesson.bitbucket.org&type=fork&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="156px" height="30px"></iframe>
+
+### Bitbucket Follow
+<iframe src="https://lbesson.bitbucket.io/bbbtns/bitbucket-btn.html?user=lbesson&type=follow&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="224px" height="30px"></iframe>
+
 ----
 
 ## [PackageControl](https://packagecontrol.io/) related
@@ -411,6 +444,45 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 
 ----
 
+## Open-Source
+Version 1, in SVG:
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+```markdown
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+```
+
+Version 1, in PNG:
+[![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+```markdown
+[![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+```
+
+Version 2, in SVG:
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+```markdown
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+```
+
+Version 2, in PNG:
+[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+```markdown
+[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+```
+
+Version 3, in SVG:
+[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+```markdown
+[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+```
+
+Version 3, in PNG:
+[![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+```markdown
+[![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+```
+
+----
+
 ## Random
 ### Ages 20-30...
 [![ForTheBadge 20-30](http://ForTheBadge.com/images/badges/ages-20-30.svg)](http://ForTheBadge.com)
@@ -488,6 +560,20 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 - [ForTheBadge.com](http://ForTheBadge.com/)
 - [Shields.io](https://shields.io)
 - [LicenseButtons.net](https://licensebuttons.net/)
+- [open-source-badges](https://github.com/ellerbrock/open-source-badges/) by [@ellerbrock](https://github.com/ellerbrock)
+
+## TODO
+- [X] Finish this list
+- [X] Update link for the *real ressource* that should get linked to
+- [X] Update all my README.md to add nice badges
+
+## Issues
+- [ ] Smaller size (badge size) for some [ForTheBadge.com](http://ForTheBadge.com) badges? (with-science, winter-is-coming, made-with-python, all the creative-commons)
+
+## Possible TODO?
+- [ ] Download here a copy of every png/svg file, *only* for the static badges
+- [ ] Host the badges in this repo, and not on an external web service ?
+- [ ] Update my README.md to link to *"my"* badges
 
 ## :scroll: License ? [![GitHub license](https://img.shields.io/github/license/Naereen/badges.svg)](https://github.com/Naereen/badges/blob/master/LICENSE)
 [MIT Licensed](https://lbesson.mit-license.org/) (file [LICENSE](LICENSE)).
