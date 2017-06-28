@@ -3,6 +3,8 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 
 > The same file for [reStructuredText](http://docutils.sourceforge.net/rst.html) code is available here: [README.rst](README.rst).
 
+[TOC]
+
 ----
 
 ## Generic
@@ -581,25 +583,26 @@ And this is a [meta badge](http://club-meta.fr/) : *"some people like repo badge
 
 ----
 
-## :notebook: References ?
-- [ForTheBadge.com](http://ForTheBadge.com/)
-- [Shields.io](https://shields.io)
-- [LicenseButtons.net](https://licensebuttons.net/)
-- [open-source-badges](https://github.com/ellerbrock/open-source-badges/) by [@ellerbrock](https://github.com/ellerbrock)
+## References ? :notebook:
+- The powerful [Shields.io](https://shields.io) API and website :rocket:
+- The nice [LicenseButtons.net](https://licensebuttons.net/) website for licence badges :scroll:
+- This repo [open-source-badges](https://github.com/ellerbrock/open-source-badges/) by [@ellerbrock](https://github.com/ellerbrock), for open-source badges :books:
+- This small repo [awesome-badges](https://github.com/bevacqua/awesome-badges) by [@bevacqua](https://github.com/bevacqua/), for awesome and meta badges :curly_loop:
+- And of course, the magical [ForTheBadge.com](http://ForTheBadge.com/) website for random badges :sparkles:
 
-## TODO
+## TODO :boom: ?
 - [X] Finish this list
 - [X] Update link for the *real ressource* that should get linked to
 - [X] Update all my README.md to add nice badges
 
-## Issues
+## Issues :sweat_drops:
 - [ ] Smaller size (badge size) for some [ForTheBadge.com](http://ForTheBadge.com) badges? (with-science, winter-is-coming, made-with-python, all the creative-commons)
 
-## Possible TODO?
+## Possible TODO? :light_rail:
 - [ ] Download here a copy of every png/svg file, *only* for the static badges
 - [ ] Host the badges in this repo, and not on an external web service ?
 
-## :scroll: License ? [![GitHub license](https://img.shields.io/github/license/Naereen/badges.svg)](https://github.com/Naereen/badges/blob/master/LICENSE)
+## License ? :scroll: [![GitHub license](https://img.shields.io/github/license/Naereen/badges.svg)](https://github.com/Naereen/badges/blob/master/LICENSE)
 [MIT Licensed](https://lbesson.mit-license.org/) (file [LICENSE](LICENSE)).
 © [Lilian Besson](https://GitHub.com/Naereen), 2016-17.
 
