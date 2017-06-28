@@ -3,7 +3,64 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 
 > The same file for [reStructuredText](http://docutils.sourceforge.net/rst.html) code is available here: [README.rst](README.rst).
 
-[TOC]
+## Table of content
+   * [List of Badges, in Markdown](#list-of-badges-in-markdown)
+      * [Generic](#generic)
+      * [Useful](#useful)
+         * [Maintained?](#maintained)
+         * [Website up/down](#website-updown)
+      * [Feedback](#feedback)
+         * ["Ask me anything" in English](#ask-me-anything-in-english)
+         * ["Demandez moi n'importe quoi" in French](#demandez-moi-nimporte-quoi-in-french)
+      * [Python related](#python-related)
+      * [Markdown related](#markdown-related)
+      * [LaTeX related](#latex-related)
+         * [PyPI downloads](#pypi-downloads)
+         * [PyPI version](#pypi-version)
+         * [PyPI license](#pypi-license)
+         * [PyPI format](#pypi-format)
+         * [PyPI python versions](#pypi-python-versions)
+         * [PyPI implementation](#pypi-implementation)
+         * [PyPI status](#pypi-status)
+      * [GNU Bash related](#gnu-bash-related)
+      * [Read the Docs status](#read-the-docs-status)
+      * [GitHub related](#github-related)
+         * [GitHub license](#github-license)
+         * [GitHub versions/tags/commits](#github-versionstagscommits)
+         * [GitHub downloads](#github-downloads)
+         * [GitHub forks](#github-forks)
+         * [GitHub stars](#github-stars)
+         * [GitHub watchers](#github-watchers)
+         * [GitHub followers](#github-followers)
+         * [GitHub contributors](#github-contributors)
+         * [GitHub issues](#github-issues)
+         * [GitHub pull-requests](#github-pull-requests)
+         * [GitHub file size](#github-file-size)
+         * [GitHub version](#github-version)
+      * [Bitbucket related](#bitbucket-related)
+         * [Bitbucket issues](#bitbucket-issues)
+         * [Bitbucket Watchers](#bitbucket-watchers)
+         * [Bitbucket Fork](#bitbucket-fork)
+         * [Bitbucket Follow](#bitbucket-follow)
+      * [PackageControl related](#packagecontrol-related)
+      * [Google Analytics](#google-analytics)
+      * [Licenses](#licenses)
+         * [MIT License](#mit-license)
+         * [GPLv3 License](#gplv3-license)
+         * [Creative Commons Licenses](#creative-commons-licenses)
+      * [Open-Source](#open-source)
+      * [Meta badges ?!](#meta-badges-)
+      * [Random](#random)
+         * [Ages 20-30...](#ages-20-30)
+         * [Built by...](#built-by)
+         * [Built with...](#built-with)
+         * [Uses...](#uses)
+         * [Fun](#fun)
+      * [References ? :notebook:](#references--notebook)
+      * [TODO :boom: ?](#todo-boom-)
+      * [Issues :sweat_drops:](#issues-sweat_drops)
+      * [Possible TODO? :light_rail:](#possible-todo-light_rail)
+      * [License ? :scroll:](#license--scroll-)
 
 ----
 
@@ -190,7 +247,7 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 
 ----
 
-## [GNU Bash](https://www.gnu.org/software/bash/)
+## [GNU Bash](https://www.gnu.org/software/bash/) related
 
 [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ```markdown
