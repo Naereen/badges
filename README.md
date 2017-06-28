@@ -254,20 +254,28 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 [![Github releases (by asset)](https://img.shields.io/github/downloads/Naereen/StrapDown.js/latest/strapdown.min.js)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 ```
 
-### GitHub social
+### GitHub forks
 [![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/)
 ```markdown
 [![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/)
 ```
 
+### GitHub stars
 [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 ```markdown
 [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 ```
 
+### GitHub watchers
 [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
 ```markdown
 [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
+```
+
+### GitHub followers
+[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
+```markdown
+[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
 ```
 
 ### GitHub contributors
@@ -479,6 +487,23 @@ Version 3, in PNG:
 [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ```markdown
 [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+```
+
+----
+
+## Meta badges ?!
+This is a badge to show that you like to put badges on your README:
+
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
+```markdown
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
+```
+
+And this is a [meta badge](http://club-meta.fr/) : *"some people like repo badges so this is a badge to count your repo badges"*:
+
+[![BADGINATOR](https://badginator.herokuapp.com/Naereen/badges.svg)](https://github.com/defunctzombie/badginator)
+```markdown
+[![BADGINATOR](https://badginator.herokuapp.com/Naereen/badges.svg)](https://github.com/defunctzombie/badginator)
 ```
 
 ----

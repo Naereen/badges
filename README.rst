@@ -460,8 +460,8 @@ GitHub downloads
 
     [![Github releases (by asset](https://img.shields.io/github/downloads/Naereen/StrapDown.js/latest/strapdown.min.js)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 
-GitHub social
-~~~~~~~~~~~~~
+GitHub forks
+~~~~~~~~~~~~
 
 |GitHub forks|
 
@@ -472,6 +472,9 @@ GitHub social
     .. |GitHub forks| image:: https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000
        :target: https://GitHub.com/Naereen/StrapDown.js/network/
 
+GitHub stars
+~~~~~~~~~~~~
+
 |GitHub stars|
 
 .. code:: rst
@@ -481,6 +484,9 @@ GitHub social
     .. |GitHub stars| image:: https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000
        :target: https://GitHub.com/Naereen/StrapDown.js/stargazers/
 
+GitHub watchers
+~~~~~~~~~~~~~~~
+
 |GitHub watchers|
 
 .. code:: rst
@@ -489,6 +495,18 @@ GitHub social
     
     .. |GitHub watchers| image:: https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000
        :target: https://GitHub.com/Naereen/StrapDown.js/watchers/
+
+GitHub followers
+~~~~~~~~~~~~~~~~
+
+|GitHub followers|
+
+.. code:: rst
+
+    |GitHub followers|
+    
+    .. |GitHub followers| image:: https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000
+       :target: https://GitHub.com/Naereen?tab=followers
 
 GitHub contributors
 ~~~~~~~~~~~~~~~~~~~
@@ -902,6 +920,33 @@ Version 3, in PNG: |Open Source Love png3|
 
 --------------
 
+Meta badges ?!
+--------------
+
+This is a badge to show that you like to put badges on your README:
+
+|Awesome Badges|
+
+.. code:: rst
+
+   |Awesome Badges|
+
+   .. |Awesome Badges| image:: https://img.shields.io/badge/badges-awesome-green.svg
+      :target: https://github.com/Naereen/badges
+
+And this is a [meta badge](http://club-meta.fr/) : *"some people like repo badges so this is a badge to count your repo badges"* :
+
+|BADGINATOR|
+
+.. code:: rst
+
+   |BADGINATOR|
+
+   .. |BADGINATOR| image:: https://badginator.herokuapp.com/Naereen/badges.svg
+      :target: https://github.com/defunctzombie/badginator
+
+--------------
+
 Random
 ------
 
@@ -1171,6 +1216,8 @@ Besson <https://GitHub.com/Naereen>`__, 2016-17.
    :target: https://GitHub.com/Naereen/StrapDown.js/stargazers/
 .. |GitHub watchers| image:: https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000
    :target: https://GitHub.com/Naereen/StrapDown.js/watchers/
+.. |GitHub followers| image:: https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000
+   :target: https://GitHub.com/Naereen?tab=followers
 .. |GitHub contributors| image:: https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg
    :target: https://GitHub.com/Naereen/StrapDown.js/graphs/contributors/
 .. |GitHub issues| image:: https://img.shields.io/github/issues/Naereen/StrapDown.js.svg
@@ -1241,6 +1288,10 @@ Besson <https://GitHub.com/Naereen>`__, 2016-17.
    :target: https://github.com/ellerbrock/open-source-badges/
 .. |Open Source Love png3| image:: https://badges.frapsoft.com/os/v3/open-source.png?v=103
    :target: https://github.com/ellerbrock/open-source-badges/
+.. |Awesome Badges| image:: https://img.shields.io/badge/badges-awesome-green.svg
+   :target: https://github.com/Naereen/badges
+.. |BADGINATOR| image:: https://badginator.herokuapp.com/Naereen/badges.svg
+   :target: https://github.com/defunctzombie/badginator  
 .. |ForTheBadge 20-30| image:: http://ForTheBadge.com/images/badges/ages-20-30.svg
    :target: http://ForTheBadge.com
 .. |ForTheBadge built-by-developers| image:: http://ForTheBadge.com/images/badges/built-by-developers.svg
