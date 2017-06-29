@@ -30,7 +30,7 @@ Useful
 Maintained?
 ~~~~~~~~~~~
 
-|Maintenance yes|
+Maintained: |Maintenance yes|
 
 .. code:: rst
 
@@ -39,7 +39,7 @@ Maintained?
     .. |Maintenance yes| image:: https://img.shields.io/badge/Maintained%3F-yes-green.svg
        :target: https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity
 
-|Maintenance no|
+Not maintained: |Maintenance no|
 
 .. code:: rst
 
@@ -47,6 +47,15 @@ Maintained?
     
     .. |Maintenance no| image:: https://img.shields.io/badge/Maintained%3F-no-red.svg
        :target: https://bitbucket.org/lbesson/ansi-colors
+
+Worse: |Maintenance not intended|
+
+.. code:: rst
+
+    |Maintenance not intended|
+    
+    .. |Maintenance not intended| image:: http://unmaintained.tech/badge.svg
+       :target: http://unmaintained.tech/
 
 `Website up/down <http://isup.me/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1134,6 +1143,8 @@ Besson <https://GitHub.com/Naereen>`__, 2016-17.
    :target: https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity
 .. |Maintenance no| image:: https://img.shields.io/badge/Maintained%3F-no-red.svg
    :target: https://bitbucket.org/lbesson/ansi-colors
+.. |Maintenance not intended| image:: http://unmaintained.tech/badge.svg
+   :target: http://unmaintained.tech/
 .. |Website shields.io| image:: https://img.shields.io/website-up-down-green-red/http/shields.io.svg
    :target: http://shields.io/
 .. |Website monip.org| image:: https://img.shields.io/website-up-down-green-red/http/monip.org.svg
