@@ -550,6 +550,29 @@ GitHub issues
     .. |GitHub issues-closed| image:: https://img.shields.io/github/issues-closed/Naereen/StrapDown.js.svg
        :target: https://GitHub.com/Naereen/StrapDown.js/issues?q=is%3Aissue+is%3Aclosed
 
+
+
+From `isitmaintained.com <http://isitmaintained.com>`_:
+
+|Average time to resolve an issue|
+
+.. code:: rst
+
+    |Average time to resolve an issue|
+    
+    .. |Average time to resolve an issue| image:: http://isitmaintained.com/badge/resolution/Naereen/badges.svg
+       :target: http://isitmaintained.com/project/Naereen/badges
+
+|Percentage of issues still open|
+
+.. code:: rst
+
+    |Percentage of issues still open|
+    
+    .. |Percentage of issues still open| image:: http://isitmaintained.com/badge/open/Naereen/badges.svg
+       :target: http://isitmaintained.com/project/Naereen/badges
+
+
 GitHub pull-requests
 ~~~~~~~~~~~~~~~~~~~~
 
@@ -1235,6 +1258,10 @@ Besson <https://GitHub.com/Naereen>`__, 2016-17.
    :target: https://GitHub.com/Naereen/StrapDown.js/issues/
 .. |GitHub issues-closed| image:: https://img.shields.io/github/issues-closed/Naereen/StrapDown.js.svg
    :target: https://GitHub.com/Naereen/StrapDown.js/issues?q=is%3Aissue+is%3Aclosed
+.. |Average time to resolve an issue| image:: http://isitmaintained.com/badge/resolution/Naereen/badges.svg
+   :target: http://isitmaintained.com/project/Naereen/badges
+.. |Percentage of issues still open| image:: http://isitmaintained.com/badge/open/Naereen/badges.svg
+   :target: http://isitmaintained.com/project/Naereen/badges
 .. |GitHub pull-requests| image:: https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg
    :target: https://GitHub.com/Naereen/StrapDown.js/pull/
 .. |GitHub pull-requests closed| image:: https://img.shields.io/github/issues-pr-closed/Naereen/StrapDown.js.svg
