@@ -666,7 +666,7 @@ And this is a [meta badge](http://club-meta.fr/) : *"some people like repo badge
 
 ## TODO :boom: ?
 - [X] Finish this list
-- [X] Update link for the *real ressource* that should get linked to
+- [X] Update link for the *real resource* that should get linked to
 - [X] Update all my README.md to add nice badges
 
 ## Issues :sweat_drops:
@@ -680,9 +680,12 @@ And this is a [meta badge](http://club-meta.fr/) : *"some people like repo badge
 [MIT Licensed](https://lbesson.mit-license.org/) (file [LICENSE](LICENSE)).
 © [Lilian Besson](https://GitHub.com/Naereen), 2016-17.
 
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
+[![BADGINATOR](https://badginator.herokuapp.com/Naereen/badges.svg)](https://github.com/defunctzombie/badginator)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/badges/graphs/commit-activity)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 [![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/badges/README.md?pixel)](https://GitHub.com/Naereen/badges/)
+[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
 
