@@ -3,6 +3,9 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 
 > The same file for [reStructuredText](http://docutils.sourceforge.net/rst.html) code is available here: [README.rst](README.rst).
 
+<details>
+<summary>Table of content</summary>
+
 ## Table of content
    * [List of Badges, in Markdown](#list-of-badges-in-markdown)
       * [Generic](#generic)
@@ -61,6 +64,8 @@ A list of badges, with their Markdown code, that can be included in a `README.md
       * [Issues :sweat_drops:](#issues-sweat_drops)
       * [Possible TODO? :light_rail:](#possible-todo-light_rail)
       * [License ? :scroll:](#license--scroll-)
+
+</details>
 
 ----
 
