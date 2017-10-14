@@ -4,8 +4,7 @@ List of Badges, in reStructuredText
 A list of badges, with their `reStructuredText <http://docutils.sourceforge.net/rst.html>`__
 code, that can be included in a ``README.rst`` file for a GitHub or Bitbucket project.
 
-    The same file for
-    `Markdown <http://commonmark.org>`__ code
+    The same file for `Markdown <http://commonmark.org>`__ code
     is available here: `README.md <README.md>`__.
 
 --------------
@@ -374,6 +373,47 @@ Feedback
 
     .. |made-with-bash| image:: https://img.shields.io/badge/Made%20with-Bash-1f425f.svg
        :target: https://www.gnu.org/software/bash/
+
+--------------
+
+`Microsoft Visual Studio Code <https://marketplace.visualstudio.com/>`__
+------------------------------------------------------------------------
+
+|version-VSCode-extension|
+
+.. code:: rst
+
+    |version-VSCode-extension|
+
+    .. |version-VSCode-extension| image:: https://vsmarketplacebadge.apphb.com/version/naereen.makefiles-support-for-vscode.svg
+       :target: https://marketplace.visualstudio.com/items?itemName=naereen.makefiles-support-for-vscode
+
+|installs-VSCode-extension|
+
+.. code:: rst
+
+    |installs-VSCode-extension|
+
+    .. |installs-VSCode-extension| image:: https://vsmarketplacebadge.apphb.com/installs/naereen.makefiles-support-for-vscode.svg
+       :target: https://marketplace.visualstudio.com/items?itemName=naereen.makefiles-support-for-vscode
+
+|rating-VSCode-extension|
+
+.. code:: rst
+
+    |rating-VSCode-extension|
+
+    .. |rating-VSCode-extension| image:: https://vsmarketplacebadge.apphb.com/rating/naereen.makefiles-support-for-vscode.svg
+       :target: https://marketplace.visualstudio.com/items?itemName=naereen.makefiles-support-for-vscode
+
+|made-for-VSCode|
+
+.. code:: rst
+
+    |made-for-VSCode|
+
+    .. |made-for-VSCode| image:: https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg
+       :target: https://code.visualstudio.com/
 
 --------------
 
@@ -1223,6 +1263,14 @@ License ? |GitHub license badges|
    :target: https://github.com/ellerbrock/open-source-badges/
 .. |made-with-bash| image:: https://img.shields.io/badge/Made%20with-Bash-1f425f.svg
    :target: https://www.gnu.org/software/bash/
+.. |version-VSCode-extension| image:: https://vsmarketplacebadge.apphb.com/version/naereen.makefiles-support-for-vscode.svg
+   :target: https://marketplace.visualstudio.com/items?itemName=naereen.makefiles-support-for-vscode
+.. |installs-VSCode-extension| image:: https://vsmarketplacebadge.apphb.com/installs/naereen.makefiles-support-for-vscode.svg
+   :target: https://marketplace.visualstudio.com/items?itemName=naereen.makefiles-support-for-vscode
+.. |rating-VSCode-extension| image:: https://vsmarketplacebadge.apphb.com/rating/naereen.makefiles-support-for-vscode.svg
+   :target: https://marketplace.visualstudio.com/items?itemName=naereen.makefiles-support-for-vscode
+.. |made-for-VSCode| image:: https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg
+   :target: https://code.visualstudio.com/
 .. |Documentation Status| image:: https://readthedocs.org/projects/ansicolortags/badge/?version=latest
    :target: http://ansicolortags.readthedocs.io/?badge=latest
 .. |GitHub license| image:: https://img.shields.io/github/license/Naereen/StrapDown.js.svg
