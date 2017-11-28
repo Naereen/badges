@@ -613,7 +613,7 @@ From `isitmaintained.com <http://isitmaintained.com>`_:
        :target: http://isitmaintained.com/project/Naereen/badges
 
 
-GitHub pull-requests
+GitHub Pull Requests
 ~~~~~~~~~~~~~~~~~~~~
 
 |GitHub pull-requests|
@@ -633,6 +633,18 @@ GitHub pull-requests
 
     .. |GitHub pull-requests closed| image:: https://img.shields.io/github/issues-pr-closed/Naereen/StrapDown.js.svg
        :target: https://GitHub.com/Naereen/StrapDown.js/pull/
+
+
+GitHub Make a Pull Requests
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|GitHub make-a-pull-requests|
+
+.. code:: rst
+
+    |GitHub make-a-pull-requests|
+
+    .. |GitHub make-a-pull-requests| image:: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
+       :target: http://makeapullrequest.com
 
 GitHub file size
 ~~~~~~~~~~~~~~~~
@@ -1310,6 +1322,8 @@ License ? |GitHub license badges|
 .. |GitHub pull-requests| image:: https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg
    :target: https://GitHub.com/Naereen/StrapDown.js/pull/
 .. |GitHub pull-requests closed| image:: https://img.shields.io/github/issues-pr-closed/Naereen/StrapDown.js.svg
+.. |GitHub make-a-pull-requests| image:: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
+   :target: http://makeapullrequest.com
    :target: https://GitHub.com/Naereen/StrapDown.js/pull/
 .. |Only 32 Kb| image:: https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js
    :target: https://github.com/Naereen/StrapDown.js/blob/master/strapdown.min.js

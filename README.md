@@ -39,6 +39,7 @@ A list of badges, with their Markdown code, that can be included in a `README.md
          * [GitHub contributors](#github-contributors)
          * [GitHub issues](#github-issues)
          * [GitHub pull-requests](#github-pull-requests)
+         * [GitHub Make a Pull Requests](#github-make-a-pull-requests)
          * [GitHub file size](#github-file-size)
          * [GitHub version](#github-version)
       * [Bitbucket related](#bitbucket-related)
@@ -401,7 +402,7 @@ From [isitmaintained.com](http://isitmaintained.com):
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/Naereen/badges.svg)](http://isitmaintained.com/project/Naereen/badges "Percentage of issues still open")
 ```
 
-### GitHub pull-requests
+### GitHub Pull Requests
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/pull/)
 ```markdown
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/pull/)
@@ -410,6 +411,12 @@ From [isitmaintained.com](http://isitmaintained.com):
 [![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/pull/)
 ```markdown
 [![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/pull/)
+```
+
+### GitHub Make a Pull Requests
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+```markdown
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 ```
 
 ### GitHub file size
