@@ -1201,7 +1201,7 @@ License ? |GitHub license badges|
 ---------------------------------
 
 `MIT Licensed <https://lbesson.mit-license.org/>`__ (file `LICENSE <LICENSE>`__).
-© `Lilian Besson <https://GitHub.com/Naereen>`__, 2016-17.
+© `Lilian Besson <https://GitHub.com/Naereen>`__, 2016-18.
 
 |Awesome Badges| |BADGINATOR| |Maintenance| |Ask Me Anything !| |Analytics badges| |Open Source Love svg3|
 
