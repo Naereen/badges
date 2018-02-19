@@ -55,6 +55,7 @@ A list of badges, with their Markdown code, that can be included in a `README.md
          * [Creative Commons Licenses](#creative-commons-licenses)
       * [Open-Source](#open-source)
       * [Meta badges ?!](#meta-badges-)
+      * [DOI and Zenody](#doi-and-zenodo)
       * [Random](#random)
          * [Ages 20-30...](#ages-20-30)
          * [Built by...](#built-by)
@@ -617,6 +618,16 @@ And this is a [meta badge](http://club-meta.fr/) : *"some people like repo badge
 [![BADGINATOR](https://badginator.herokuapp.com/Naereen/badges.svg)](https://github.com/defunctzombie/badginator)
 ```markdown
 [![BADGINATOR](https://badginator.herokuapp.com/Naereen/badges.svg)](https://github.com/defunctzombie/badginator)
+```
+
+----
+
+## DOI and Zenodo
+This is a badge to link to a [DOI](https://doi.org/):
+
+[![DOI:10.1007/978-3-319-76207-4_15](https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg)](https://doi.org/10.1007/978-3-319-76207-4_15)
+```markdown
+[![DOI:10.1007/978-3-319-76207-4_15](https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg)](https://doi.org/10.1007/978-3-319-76207-4_15)
 ```
 
 ----

@@ -637,6 +637,7 @@ GitHub Pull Requests
 
 GitHub Make a Pull Requests
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 |GitHub make-a-pull-requests|
 
 .. code:: rst
@@ -1029,6 +1030,22 @@ And this is a [meta badge](http://club-meta.fr/) : *"some people like repo badge
    .. |BADGINATOR| image:: https://badginator.herokuapp.com/Naereen/badges.svg
       :target: https://github.com/defunctzombie/badginator
 
+----
+
+DOI and Zenodo
+--------------
+
+This is a badge to link to a [DOI](https://doi.org/):
+
+|DOI|
+
+.. code:: rst
+
+   |DOI|
+
+   .. |DOI| image:: https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg
+      :target: https://doi.org/10.1007/978-3-319-76207-4_15
+
 --------------
 
 Random
@@ -1322,9 +1339,9 @@ License ? |GitHub license badges|
 .. |GitHub pull-requests| image:: https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg
    :target: https://GitHub.com/Naereen/StrapDown.js/pull/
 .. |GitHub pull-requests closed| image:: https://img.shields.io/github/issues-pr-closed/Naereen/StrapDown.js.svg
+   :target: https://GitHub.com/Naereen/StrapDown.js/pull/
 .. |GitHub make-a-pull-requests| image:: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
    :target: http://makeapullrequest.com
-   :target: https://GitHub.com/Naereen/StrapDown.js/pull/
 .. |Only 32 Kb| image:: https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js
    :target: https://github.com/Naereen/StrapDown.js/blob/master/strapdown.min.js
 .. |GitHub version| image:: https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg
@@ -1389,6 +1406,8 @@ License ? |GitHub license badges|
    :target: https://github.com/Naereen/badges
 .. |BADGINATOR| image:: https://badginator.herokuapp.com/Naereen/badges.svg
    :target: https://github.com/defunctzombie/badginator
+.. |DOI| image:: https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg
+   :target: https://doi.org/10.1007/978-3-319-76207-4_15
 .. |ForTheBadge 20-30| image:: http://ForTheBadge.com/images/badges/ages-20-30.svg
    :target: http://ForTheBadge.com
 .. |ForTheBadge built-by-developers| image:: http://ForTheBadge.com/images/badges/built-by-developers.svg
