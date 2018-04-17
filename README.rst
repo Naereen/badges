@@ -671,6 +671,19 @@ GitHub version
     .. |GitHub version| image:: https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg
        :target: https://github.com/Naereen/StrapDown.js
 
+GitHub hits
+~~~~~~~~~~~
+
+|HitCount|
+
+.. code:: rst
+
+    |HitCount|
+
+    .. |HitCount| image:: http://hits.dwyl.io/Naereen/badges.svg
+       :target: http://hits.dwyl.io/Naereen/badges
+
+
 --------------
 
 Bitbucket related
@@ -1346,6 +1359,8 @@ License ? |GitHub license badges|
    :target: https://github.com/Naereen/StrapDown.js/blob/master/strapdown.min.js
 .. |GitHub version| image:: https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg
    :target: https://github.com/Naereen/StrapDown.js
+.. |HitCount| image:: http://hits.dwyl.io/Naereen/badges.svg
+   :target: http://hits.dwyl.io/Naereen/badges
 .. |Bitbucket issues| image:: https://img.shields.io/bitbucket/issues/lbesson/bin.svg
    :target: https://Bitbucket.org/lbesson/bin/issues/
 .. |Package Control total downloads| image:: https://img.shields.io/packagecontrol/dt/SwitchDictionary.svg

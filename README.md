@@ -42,6 +42,7 @@ A list of badges, with their Markdown code, that can be included in a `README.md
          * [GitHub Make a Pull Requests](#github-make-a-pull-requests)
          * [GitHub file size](#github-file-size)
          * [GitHub version](#github-version)
+         * [GitHub hits](#github-hits)
       * [Bitbucket related](#bitbucket-related)
          * [Bitbucket issues](#bitbucket-issues)
          * [Bitbucket Watchers](#bitbucket-watchers)
@@ -432,6 +433,11 @@ From [isitmaintained.com](http://isitmaintained.com):
 [![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js)
 ```
 
+### GitHub hits
+[![HitCount](http://hits.dwyl.io/Naereen/badges.svg)](http://hits.dwyl.io/Naereen/badges)
+```markdown
+[![HitCount](http://hits.dwyl.io/Naereen/badges.svg)](http://hits.dwyl.io/Naereen/badges)
+```
 
 ----
 
