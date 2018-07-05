@@ -1072,7 +1072,7 @@ A nice badge to give a link to `saythanks.io/to/kennethreitz <https://saythanks.
    |say thanks|
 
    .. |say thanks| image:: https://img.shields.io/badge/say-thanks-ff69b4.svg
-   :target: https://saythanks.io/to/kennethreitz
+      :target: https://saythanks.io/to/kennethreitz
 
 --------------
 
