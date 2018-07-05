@@ -57,6 +57,7 @@ A list of badges, with their Markdown code, that can be included in a `README.md
       * [Open-Source](#open-source)
       * [Meta badges ?!](#meta-badges-)
       * [DOI and Zenody](#doi-and-zenodo)
+      * [Say thanks](#say-thanks)
       * [Random](#random)
          * [Ages 20-30...](#ages-20-30)
          * [Built by...](#built-by)
@@ -634,6 +635,16 @@ This is a badge to link to a [DOI](https://doi.org/):
 [![DOI:10.1007/978-3-319-76207-4_15](https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg)](https://doi.org/10.1007/978-3-319-76207-4_15)
 ```markdown
 [![DOI:10.1007/978-3-319-76207-4_15](https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg)](https://doi.org/10.1007/978-3-319-76207-4_15)
+```
+
+----
+
+## [Say thanks](https://github.com/kennethreitz/saythanks.io/)
+A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.io/to/kennethreitz) (for example).
+
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
+```markdown
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
 ```
 
 ----

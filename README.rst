@@ -1061,6 +1061,21 @@ This is a badge to link to a [DOI](https://doi.org/):
 
 --------------
 
+`Say thanks <https://github.com/kennethreitz/saythanks.io/>`__
+--------------------------------------------------------------
+A nice badge to give a link to `saythanks.io/to/kennethreitz <https://saythanks.io/to/kennethreitz>`__ (for example).
+
+|say thanks|
+
+.. code:: rst
+
+   |say thanks|
+
+   .. |say thanks| image:: https://img.shields.io/badge/say-thanks-ff69b4.svg
+   :target: https://saythanks.io/to/kennethreitz
+
+--------------
+
 Random
 ------
 
@@ -1423,6 +1438,8 @@ License ? |GitHub license badges|
    :target: https://github.com/defunctzombie/badginator
 .. |DOI| image:: https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg
    :target: https://doi.org/10.1007/978-3-319-76207-4_15
+.. |say thanks| image:: https://img.shields.io/badge/say-thanks-ff69b4.svg
+   :target: https://saythanks.io/to/kennethreitz
 .. |ForTheBadge 20-30| image:: http://ForTheBadge.com/images/badges/ages-20-30.svg
    :target: http://ForTheBadge.com
 .. |ForTheBadge built-by-developers| image:: http://ForTheBadge.com/images/badges/built-by-developers.svg
