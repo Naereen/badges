@@ -417,9 +417,9 @@ From [isitmaintained.com](http://isitmaintained.com):
 ```
 
 ### GitHub Make a Pull Requests
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/Naereen/badges/pulls)
 ```markdown
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/Naereen/badges/pulls)
 ```
 
 ### GitHub file size
