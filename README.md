@@ -648,11 +648,16 @@ This is a badge to link to a [DOI](https://doi.org/):
 ## Jetbrains
 Jetbrains Badges
 
+
 [![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 ```markdown
+[![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+```
+
 [![JetBrains Plugins](https://img.shields.io/jetbrains/plugin/v/9630-a8translate.svg)](https://plugins.jetbrains.com/)
 ```markdown
-
+[![JetBrains Plugins](https://img.shields.io/jetbrains/plugin/v/9630-a8translate.svg)](https://plugins.jetbrains.com/)
+```
 
 ----
 
