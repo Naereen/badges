@@ -645,6 +645,22 @@ This is a badge to link to a [DOI](https://doi.org/):
 
 ----
 
+## Jetbrains
+Jetbrains Badges
+
+
+[![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+```markdown
+[![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+```
+
+[![JetBrains Plugins](https://img.shields.io/jetbrains/plugin/v/9630-a8translate.svg)](https://plugins.jetbrains.com/)
+```markdown
+[![JetBrains Plugins](https://img.shields.io/jetbrains/plugin/v/9630-a8translate.svg)](https://plugins.jetbrains.com/)
+```
+
+----
+
 ## [Say thanks](https://github.com/kennethreitz/saythanks.io/)
 A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.io/to/kennethreitz) (for example).
 
