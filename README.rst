@@ -790,7 +790,7 @@ Bitbucket Follow
 ----------------------------------------------------
 
     **Warning**: don't forget to change your Google Analytics code, from
-    ``UA-XXXXXXXX-XX`` to yourse!
+    ``UA-XXXXXXXX-XX`` to yours!
 
 |Analytics pixel|
 

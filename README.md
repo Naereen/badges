@@ -484,7 +484,7 @@ From [isitmaintained.com](http://isitmaintained.com):
 ----
 
 ## [Google Analytics](https://analytics.google.com/)
-> **Warning**: don't forget to change your Google Analytics code, from `UA-XXXXXXXX-XX` to yourse!
+> **Warning**: don't forget to change your Google Analytics code, from `UA-XXXXXXXX-XX` to yours!
 
 [![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/badges/README.md?pixel)](https://GitHub.com/Naereen/badges/)
 ```markdown
