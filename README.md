@@ -61,6 +61,7 @@ A list of badges, with their Markdown code, that can be included in a `README.md
       * [Random](#random)
          * [Ages 20-30...](#ages-20-30)
          * [Built by...](#built-by)
+         * [Twitting](#twitting)
          * [Built with...](#built-with)
          * [Uses...](#uses)
          * [Fun](#fun)
@@ -677,10 +678,10 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
 ```markdown
 [![ForTheBadge 20-30](http://ForTheBadge.com/images/badges/ages-20-30.svg)](http://ForTheBadge.com)
 ```
-### Tweeting
+### Twitting
 ![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)
 ```markdown
-https://img.shields.io/twitter/url/http/shields.io.svg?style=social
+![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)
 ```
 
 ### Built by...
