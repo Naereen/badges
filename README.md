@@ -677,6 +677,11 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
 ```markdown
 [![ForTheBadge 20-30](http://ForTheBadge.com/images/badges/ages-20-30.svg)](http://ForTheBadge.com)
 ```
+### Tweeting
+![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)
+```markdown
+https://img.shields.io/twitter/url/http/shields.io.svg?style=social
+```
 
 ### Built by...
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
