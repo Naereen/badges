@@ -185,6 +185,39 @@ Feedback
 
 --------------
 
+`Go <http://golang.org>`__ related
+----------------------------------
+
+|made-with-Go|
+
+.. code:: markdown
+
+    [![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org)
+
+GitHub go.mod Go version (``/github/go-mod/go-version/:user/:repo``):
+|GitHub go.mod Go version of a Go module|
+
+.. code:: markdown
+
+    [![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/gomods/athens.svg)](https://github.com/gomods/athens)
+
+GoDoc reference (``godoc.org/:user/go/:repo``): |GoDoc reference
+example|
+
+.. code:: markdown
+
+    [![GoDoc reference example](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/nanomsg.org/go/mangos/v2)
+
+`GoReportCard <https://goreportcard.com/>`__
+(``goreportcard.com/badge/github.com/:user/:repo``): |GoReportCard
+example|
+
+.. code:: markdown
+
+    [![GoReportCard example](https://goreportcard.com/badge/github.com/nanomsg/mangos)](https://goreportcard.com/report/github.com/nanomsg/mangos)
+
+--------------
+
 `Markdown <http://commonmark.org>`__ related
 --------------------------------------------
 
@@ -1296,6 +1329,14 @@ License ? |GitHub license badges|
     :target: https://www.python.org/
 .. |made-with-sphinx-doc| image:: https://img.shields.io/badge/Made%20with-Sphinx-1f425f.svg
     :target: https://www.sphinx-doc.org/
+.. |made-with-Go| image:: https://img.shields.io/badge/Made%20with-Go-1f425f.svg
+   :target: http://golang.org
+.. |GitHub go.mod Go version of a Go module| image:: https://img.shields.io/github/go-mod/go-version/gomods/athens.svg
+   :target: https://github.com/gomods/athens
+.. |GoDoc reference example| image:: https://img.shields.io/badge/godoc-reference-blue.svg
+   :target: https://godoc.org/nanomsg.org/go/mangos/v2
+.. |GoReportCard example| image:: https://goreportcard.com/badge/github.com/nanomsg/mangos
+   :target: https://goreportcard.com/report/github.com/nanomsg/mangos
 .. |made-with-Markdown| image:: https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg
     :target: http://commonmark.org
 .. |made-with-StrapDown.js| image:: https://img.shields.io/badge/Made%20with-StrapDown.js-1f425f.svg

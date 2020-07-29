@@ -16,6 +16,7 @@ A list of badges, with their Markdown code, that can be included in a `README.md
          * ["Ask me anything" in English](#ask-me-anything-in-english)
          * ["Demandez moi n'importe quoi" in French](#demandez-moi-nimporte-quoi-in-french)
       * [Python related](#python-related)
+      * [Go related](#go-related)
       * [Markdown related](#markdown-related)
       * [LaTeX related](#latex-related)
          * [PyPI downloads](#pypi-downloads)
@@ -167,6 +168,33 @@ Worse: [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://u
 [![made-with-sphinx-doc](https://img.shields.io/badge/Made%20with-Sphinx-1f425f.svg)](https://www.sphinx-doc.org/)
 ```markdown
 [![made-with-sphinx-doc](https://img.shields.io/badge/Made%20with-Sphinx-1f425f.svg)](https://www.sphinx-doc.org/)
+```
+
+----
+
+## [Go](http://golang.org) related
+
+[![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org)
+```markdown
+[![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org)
+```
+
+GitHub go.mod Go version (`/github/go-mod/go-version/:user/:repo`):
+[![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/gomods/athens.svg)](https://github.com/gomods/athens)
+```markdown
+[![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/gomods/athens.svg)](https://github.com/gomods/athens)
+```
+
+GoDoc reference (`godoc.org/:user/go/:repo`):
+[![GoDoc reference example](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/nanomsg.org/go/mangos/v2)
+```markdown
+[![GoDoc reference example](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/nanomsg.org/go/mangos/v2)
+```
+
+[GoReportCard](https://goreportcard.com/) (`goreportcard.com/badge/github.com/:user/:repo`):
+[![GoReportCard example](https://goreportcard.com/badge/github.com/nanomsg/mangos)](https://goreportcard.com/report/github.com/nanomsg/mangos)
+```markdown
+[![GoReportCard example](https://goreportcard.com/badge/github.com/nanomsg/mangos)](https://goreportcard.com/report/github.com/nanomsg/mangos)
 ```
 
 ----
