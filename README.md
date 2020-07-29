@@ -640,9 +640,9 @@ Version 3, in PNG:
 ```
 
 Open Source? Yes!
-[[Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 ```markdown
-[[Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 ```
 
 ----
@@ -802,7 +802,6 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
 © [Lilian Besson](https://GitHub.com/Naereen), 2016-18.
 
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
-[![BADGINATOR](https://badginator.herokuapp.com/Naereen/badges.svg)](https://github.com/defunctzombie/badginator)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/badges/graphs/commit-activity)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 [![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/badges/README.md?pixel)](https://GitHub.com/Naereen/badges/)

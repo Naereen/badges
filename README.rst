@@ -1291,7 +1291,7 @@ License ? |GitHub license badges|
 `MIT Licensed <https://lbesson.mit-license.org/>`__ (file `LICENSE <LICENSE>`__).
 © `Lilian Besson <https://GitHub.com/Naereen>`__, 2016-18.
 
-|Awesome Badges| |BADGINATOR| |Maintenance| |Ask Me Anything !| |Analytics badges| |Open Source Love svg3|
+|Awesome Badges| |Maintenance| |Ask Me Anything !| |Analytics badges| |Open Source Love svg3|
 
 |ForTheBadge built-with-swag|
 
@@ -1487,8 +1487,6 @@ License ? |GitHub license badges|
     :target: https://github.com/Naereen/badges/
 .. |Awesome Badges| image:: https://img.shields.io/badge/badges-awesome-green.svg
     :target: https://github.com/Naereen/badges
-.. |BADGINATOR| image:: https://badginator.herokuapp.com/Naereen/badges.svg
-    :target: https://github.com/defunctzombie/badginator
 .. |DOI| image:: https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg
     :target: https://doi.org/10.1007/978-3-319-76207-4_15
 .. |say thanks| image:: https://img.shields.io/badge/say-thanks-ff69b4.svg
