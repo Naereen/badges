@@ -674,6 +674,25 @@ This is a badge to link to a [DOI](https://doi.org/):
 
 ----
 
+## Discord
+Discord Badges
+
+
+[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vpEv3HJ)
+```markdown
+[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vpEv3HJ)
+```
+[![Support Server](https://img.shields.io/discord/591914197219016707.svg?color=7289da&label=TestingMeme&logo=discord&style=flat-square)](https://discord.gg/vpEv3HJ)
+```markdown
+[![Support Server](https://img.shields.io/discord/591914197219016707.svg?color=7289da&label=TestingMeme&logo=discord&style=flat-square)](https://discord.gg/vpEv3HJ)
+```
+[![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/vpEv3HJ)
+```markdown
+[![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/vpEv3HJ)
+```
+
+----
+
 ## Jetbrains
 Jetbrains Badges
 
