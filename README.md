@@ -398,6 +398,10 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 ```markdown
 [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
 ```
+![Profile views](https://gpvc.arturio.dev/Naereen)
+```markdown
+![Profile views](https://gpvc.arturio.dev/Naereen)
+```
 
 ### GitHub followers
 [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
@@ -468,6 +472,16 @@ From [isitmaintained.com](http://isitmaintained.com):
 ```markdown
 [![HitCount](http://hits.dwyl.io/Naereen/badges.svg)](http://hits.dwyl.io/Naereen/badges)
 ```
+### GitHub Profile
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+```markdown
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+```
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
+```markdown
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
+```
+
 
 ----
 
@@ -794,6 +808,19 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
 ```markdown
 [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
 ```
+![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif)
+```mardown
+![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif)
+```
+![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif)
+```mardown
+![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif)
+```
+![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif)
+```mardown
+![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif)
+```
+
 
 ----
 
