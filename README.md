@@ -169,7 +169,24 @@ Worse: [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://u
 ```markdown
 [![made-with-sphinx-doc](https://img.shields.io/badge/Made%20with-Sphinx-1f425f.svg)](https://www.sphinx-doc.org/)
 ```
+#### [Jupyter Notebook](https://jupyter.org)
+[![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)  
+```markdown  
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+```
 
+#### [Google Collab](https://colab.research.google.com/notebooks/intro.ipynb)   
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
+```markdown  
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
+``` 
+
+ #### [Binder](https://binder.pangeo.io/)
+[![Binder](https://binder.pangeo.io/badge_logo.svg)
+](https://binder.pangeo.io/v2/gh/Naereen/badges/master) 
+```markdown  
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/Naereen/badges/master)
+```
 ----
 
 ## [Go](http://golang.org) related
@@ -404,6 +421,10 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 ```markdown
 [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
 ```
+![Profile views](https://gpvc.arturio.dev/Naereen)
+```markdown
+![Profile views](https://gpvc.arturio.dev/Naereen)
+```
 
 ### GitHub followers
 [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
@@ -474,6 +495,16 @@ From [isitmaintained.com](http://isitmaintained.com):
 ```markdown
 [![HitCount](http://hits.dwyl.io/Naereen/badges.svg)](http://hits.dwyl.io/Naereen/badges)
 ```
+### GitHub Profile
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+```markdown
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+```
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
+```markdown
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
+```
+
 
 ----
 
@@ -680,6 +711,25 @@ This is a badge to link to a [DOI](https://doi.org/):
 
 ----
 
+## Discord
+Discord Badges
+
+
+[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vpEv3HJ)
+```markdown
+[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vpEv3HJ)
+```
+[![Support Server](https://img.shields.io/discord/591914197219016707.svg?color=7289da&label=TestingMeme&logo=discord&style=flat-square)](https://discord.gg/vpEv3HJ)
+```markdown
+[![Support Server](https://img.shields.io/discord/591914197219016707.svg?color=7289da&label=TestingMeme&logo=discord&style=flat-square)](https://discord.gg/vpEv3HJ)
+```
+[![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/vpEv3HJ)
+```markdown
+[![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/vpEv3HJ)
+```
+
+----
+
 ## Jetbrains
 Jetbrains Badges
 
@@ -781,6 +831,19 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
 ```markdown
 [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
 ```
+![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif)
+```mardown
+![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif)
+```
+![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif)
+```mardown
+![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif)
+```
+![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif)
+```mardown
+![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif)
+```
+
 
 ----
 
