@@ -182,21 +182,21 @@ Worse: [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://u
 [![made-with-sphinx-doc](https://img.shields.io/badge/Made%20with-Sphinx-1f425f.svg)](https://www.sphinx-doc.org/)
 ```
 #### [Jupyter Notebook](https://jupyter.org)
-[![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)  
-```markdown  
+[![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+```markdown
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 ```
 
-#### [Google Collab](https://colab.research.google.com/notebooks/intro.ipynb)   
+#### [Google Collab](https://colab.research.google.com/notebooks/intro.ipynb)
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
-```markdown  
+```markdown
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
-``` 
+```
 
  #### [Binder](https://binder.pangeo.io/)
 [![Binder](https://binder.pangeo.io/badge_logo.svg)
-](https://binder.pangeo.io/v2/gh/Naereen/badges/master) 
-```markdown  
+](https://binder.pangeo.io/v2/gh/Naereen/badges/master)
+```markdown
 [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/Naereen/badges/master)
 ```
 ----
