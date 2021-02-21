@@ -50,6 +50,7 @@ A list of badges, with their Markdown code, that can be included in a `README.md
     - [GitHub version](#github-version)
     - [GitHub hits](#github-hits)
     - [GitHub Profile](#github-profile)
+    - [GitHub Stars Sparklines](#github-stars-sparklines)
   - [Bitbucket related](#bitbucket-related)
     - [Bitbucket issues](#bitbucket-issues)
     - [Bitbucket Watchers](#bitbucket-watchers)
@@ -517,6 +518,11 @@ From [isitmaintained.com](http://isitmaintained.com):
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
 ```
 
+### GitHub Stars Sparklines
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+```markdown
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+```
 
 ----
 
