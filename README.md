@@ -852,6 +852,7 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
 [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
 ```markdown
 [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
+```
 
 ----
 
