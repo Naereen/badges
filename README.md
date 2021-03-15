@@ -786,9 +786,10 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
 
 ## Step by Step
 1. Search a SVG image logo
-    - [Simpleicons](https://simpleicons.org/)
-    - [Flaticon](https://www.flaticon.com/)
-    - [Materialdesignicons](https://materialdesignicons.com/)
+    * Some databases:
+        - [Simpleicons](https://simpleicons.org/)
+        - [Flaticon](https://www.flaticon.com/)
+        - [Materialdesignicons](https://materialdesignicons.com/)
 2. Optimize the SVG image using a tool:
     * Example of tool:
         - [SVGO Project](https://github.com/svg/svgo) ([Web App](https://jakearchibald.github.io/svgomg/))
