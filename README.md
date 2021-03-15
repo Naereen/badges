@@ -68,6 +68,7 @@ A list of badges, with their Markdown code, that can be included in a `README.md
   - [Discord](#discord)
   - [Jetbrains](#jetbrains)
   - [Say thanks](#say-thanks)
+  - [Custom Logo](#custom-logo)
   - [Random](#random)
     - [Ages 20-30...](#ages-20-30)
     - [Twitting](#twitting)
