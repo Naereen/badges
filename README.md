@@ -778,7 +778,29 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
 
 ----
 
-## Badges with Custom Logo
+## Custom Logo
+
+<details>
+<summary>How to Create</summary>
+
+## Step by Step
+1. Search a SVG image logo
+    - [Simpleicons](https://simpleicons.org/)
+    - [Flaticon](https://www.flaticon.com/)
+    - [Materialdesignicons](https://materialdesignicons.com/)
+2. Optimize the SVG image using a tool:
+    * Example of tool:
+        - [SVGO Project](https://github.com/svg/svgo) ([Web App](https://jakearchibald.github.io/svgomg/))
+3. Encode the Optimized SVG to Base64 using a tool:
+    * Example of tool:
+        - [B64.io ](https://b64.io/)
+        - [Base64.Guru](https://base64.guru/converter/encode/image/svg)
+4. Place the B64 code after the code:
+    ```markdown
+    https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>?logo=data:image/svg%2bxml;base64,
+    ```
+5. Use in your README.md
+</details>
 
 ----
 
@@ -893,3 +915,4 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
 
 [![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
+
