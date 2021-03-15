@@ -1075,7 +1075,7 @@ This is a badge to show that you like to put badges on your README:
    .. |Awesome Badges| image:: https://img.shields.io/badge/badges-awesome-green.svg
       :target: https://github.com/Naereen/badges
 
-And this is a [meta badge](http://club-meta.fr/) : *"some people like repo badges so this is a badge to count your repo badges"* :
+And this is a `meta badge <http://club-meta.fr/>`__ : *"some people like repo badges so this is a badge to count your repo badges"* :
 
 |BADGINATOR|
 
@@ -1595,6 +1595,8 @@ License ? |GitHub license badges|
     :target: https://github.com/Naereen/badges/
 .. |Awesome Badges| image:: https://img.shields.io/badge/badges-awesome-green.svg
     :target: https://github.com/Naereen/badges
+.. |BADGINATOR| image:: https://badginator.herokuapp.com/Naereen/badges.svg
+    :target: https://github.com/defunctzombie/badginator
 .. |DOI| image:: https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg
     :target: https://doi.org/10.1007/978-3-319-76207-4_15
 .. |say thanks| image:: https://img.shields.io/badge/say-thanks-ff69b4.svg
