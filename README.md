@@ -778,6 +778,10 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
 
 ----
 
+## Badges with Custom Logo
+
+----
+
 ## Random
 ### Ages 20-30...
 [![ForTheBadge 20-30](http://ForTheBadge.com/images/badges/ages-20-30.svg)](http://ForTheBadge.com)
