@@ -63,6 +63,7 @@ A list of badges, with their Markdown code, that can be included in a `README.md
     - [GPLv3 License](#gplv3-license)
     - [Creative Commons Licenses](#creative-commons-licenses)
   - [Open-Source](#open-source)
+  - [View Counting](#view-counting)
   - [Meta badges ?!](#meta-badges-)
   - [DOI and Zenodo](#doi-and-zenodo)
   - [Discord](#discord)
@@ -703,6 +704,17 @@ Open Source? Yes!
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 ```markdown
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
+```
+
+----
+
+## View Counting
+
+To create a **personalized** 🎉 view counter, visit [MyViewCounts](https://myviewcounts.rayhanadev.repl.co) and create a new custom counter using the basic options or advanced options (for more info, visit the [repo](https://github.com/RayhanADev/MyViewCounts)). Then use the link the site provided to embed in markdown!
+
+[![viewcounter](https://myviewcounts.rayhanadev.repl.co/viewcount/badgesreadme.png)](https://myviewcounts.rayhanadev.repl.co/)
+```markdown
+[![viewcounter](https://myviewcounts.rayhanadev.repl.co/viewcount/badgesreadme.png)](https://myviewcounts.rayhanadev.repl.co/)
 ```
 
 ----
