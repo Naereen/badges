@@ -440,6 +440,11 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 ![Profile views](https://gpvc.arturio.dev/Naereen)
 ```
 
+![Profile views](https://profile-counter.glitch.me/Naereen/count.svg)
+```markdown
+![Profile views](https://profile-counter.glitch.me/Naereen/count.svg)
+```
+
 ### GitHub followers
 [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
 ```markdown
