@@ -86,11 +86,30 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 ----
 
 ## Generic
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg?style=plastic)](https://shields.io/)
+```markdown
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg?style=plastic)](https://shields.io/)
+```
+
 [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 ```markdown
 [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 ```
 
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg?style=flat-square)](https://shields.io/)
+```markdown
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg?style=flat-square)](https://shields.io/)
+```
+
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg?style=for-the-badge)](https://shields.io/)
+```markdown
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg?style=for-the-badge)](https://shields.io/)
+```
+
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg?style=social)](https://shields.io/)
+```markdown
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg?style=social)](https://shields.io/)
+```
 ----
 
 ## Useful
@@ -164,8 +183,12 @@ Worse: [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://u
 [![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](https://GitHub.com/Naereen/ama.fr)
 ```markdown
 [![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](https://GitHub.com/Naereen/ama.fr)
-```
 
+### *"Попитай ме каквото искаш"* in Bulgarian
+[![Попитай ме каквото искаш !](https://img.shields.io/badge/%D0%9F%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D0%B9%20%D0%BC%D0%B5-%D0%BA%D0%B0%D0%BA%D0%B2%D0%BE%D1%82%D0%BE%20%D0%B8%D1%81%D0%BA%D0%B0%D1%88-1abc9c)]
+```markdown
+[![Попитай ме каквото искаш !](https://img.shields.io/badge/%D0%9F%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D0%B9%20%D0%BC%D0%B5-%D0%BA%D0%B0%D0%BA%D0%B2%D0%BE%D1%82%D0%BE%20%D0%B8%D1%81%D0%BA%D0%B0%D1%88-1abc9c)]
+```
 ----
 
 ## [Python](https://www.python.org/) related
