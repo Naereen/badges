@@ -1496,6 +1496,8 @@ License ? |GitHub license badges|
     :target: https://marketplace.visualstudio.com/items?itemName=naereen.makefiles-support-for-vscode
 .. |made-for-VSCode| image:: https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg
     :target: https://code.visualstudio.com/
+.. |open-in-VSCode| image:: https://open.vscode.dev/badges/open-in-vscode.svg
+    :target: https://open.vscode.dev/Naereen/badges
 .. |Documentation Status| image:: https://readthedocs.org/projects/ansicolortags/badge/?version=latest
     :target: http://ansicolortags.readthedocs.io/?badge=latest
 .. |GitHub license| image:: https://img.shields.io/github/license/Naereen/StrapDown.js.svg
