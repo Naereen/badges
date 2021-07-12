@@ -448,6 +448,15 @@ example|
     .. |made-for-VSCode| image:: https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg
        :target: https://code.visualstudio.com/
 
+|open-in-VSCode|
+
+.. code:: rst
+
+    |open-in-VSCode|
+
+    .. |open-in-VSCode| image:: https://open.vscode.dev/badges/open-in-vscode.svg
+       :target: https://open.vscode.dev/Naereen/badges
+
 --------------
 
 `Read the Docs <https://readthedocs.org/>`__ status
