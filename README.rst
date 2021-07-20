@@ -888,6 +888,9 @@ GPLv3 License
     .. |GPL license| image:: https://img.shields.io/badge/License-GPL-blue.svg
        :target: http://perso.crans.org/besson/LICENSE.html
 
+Unlicense
+~~~~~~~~~~~~~
+
 |Unlicense|
 
 .. code:: rst
