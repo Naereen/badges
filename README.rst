@@ -383,6 +383,41 @@ example|
 
     .. |PyPI status| image:: https://img.shields.io/pypi/status/ansicolortags.svg
        :target: https://pypi.python.org/pypi/ansicolortags/
+       
+--------------
+
+`JavaScript <https://www.javascript.com/>`__ related
+----------------------------------------------------
+
+|made-with-javascript|
+
+.. code:: rst
+
+    |made-with-javascript|
+
+    .. |made-with-JavaScript| image:: https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg
+       :target: https://www.javascript.com
+
+`JSDelivr <https://www.jsdelivr.com/>`__ downloads
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+|jsdelivr downloads official|
+
+.. code:: rst
+
+    |jsdelivr downloads official|
+
+    .. |jsdelivr downloads official| image:: https://data.jsdelivr.com/v1/package/gh/<USERNAME>/<REPOSITORY>/badge?style=rounded
+       :target: https://www.jsdelivr.com/package/gh/<USERNAME>/<REPOSITORY>
+
+|jsdelivr downloads shields|
+
+.. code:: rst
+
+    |jsdelivr downloads shields|
+
+    .. |jsdelivr downloads shields| image:: https://img.shields.io/jsdelivr/gh/hm/<USERNAME>/<REPOSITORY>
+       :target: https://www.jsdelivr.com/package/gh/<USERNAME>/<REPOSITORY>
 
 --------------
 
@@ -1607,6 +1642,12 @@ License ? |GitHub license badges|
     :target: https://pypi.python.org/pypi/ansicolortags/
 .. |PyPI status| image:: https://img.shields.io/pypi/status/ansicolortags.svg
     :target: https://pypi.python.org/pypi/ansicolortags/
+.. |made-with-JavaScript| image:: https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg
+   :target: https://www.javascript.com
+.. |jsdelivr downloads official| image:: https://data.jsdelivr.com/v1/package/gh/jquery/jquery/badge?style=rounded
+   :target: https://www.jsdelivr.com/package/gh/jquery/jquery
+.. |jsdelivr downloads shields| image:: https://img.shields.io/jsdelivr/gh/hm/jquery/jquery
+   :target: https://www.jsdelivr.com/package/gh/jquery/jquery
 .. |Bash Shell| image:: https://badges.frapsoft.com/bash/v1/bash.png?v=103
     :target: https://github.com/ellerbrock/open-source-badges/
 .. |made-with-bash| image:: https://img.shields.io/badge/Made%20with-Bash-1f425f.svg
