@@ -1047,6 +1047,15 @@ Any `shields.io <https://shields.io/>`_ badge can use a logo image by adding the
     .. |simpleicons suckless| image:: https://img.shields.io/badge/--1177AA?logo=suckless
        :target: https://suckless.org
 
+|simpleicons dwm|
+
+.. code:: rst
+
+    |simpleicons dwm|
+
+    .. |simpleicons dwm| image:: https://img.shields.io/badge/--1177AA?logo=dwm
+       :target: https://dwm.suckless.org
+
 --------------
 
 Open-Source
