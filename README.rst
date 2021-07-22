@@ -1056,6 +1056,15 @@ Any `shields.io <https://shields.io/>`_ badge can use a logo image by adding the
     .. |simpleicons dwm| image:: https://img.shields.io/badge/--1177AA?logo=dwm
        :target: https://dwm.suckless.org
 
+|simpleicons git|
+
+.. code:: rst
+
+    |simpleicons git|
+
+    .. |simpleicons git| image:: https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff
+       :target: http://git-scm.com
+
 --------------
 
 Open-Source
