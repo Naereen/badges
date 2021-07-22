@@ -1074,6 +1074,15 @@ Any `shields.io <https://shields.io/>`_ badge can use a logo image by adding the
     .. |simpleicons xorg| image:: https://img.shields.io/badge/--F28834?logo=x.org&logoColor=ffffff
        :target: https://x.org
 
+|simpleicons visualstudio|
+
+.. code:: rst
+
+    |simpleicons visualstudio|
+
+    .. |simpleicons visualstudio| image:: https://img.shields.io/badge/--6C33AF?logo=visual%20studio
+       :target: https://visualstudio.microsoft.com
+
 --------------
 
 Open-Source
