@@ -1029,6 +1029,15 @@ Any `shields.io <https://shields.io/>`_ badge can use a logo image by adding the
     .. |simpleicons vim| image:: https://img.shields.io/badge/--019733?logo=vim
        :target: https://www.vim.org
 
+|simpleicons openbsd|
+
+.. code:: rst
+
+    |simpleicons openbsd|
+
+    .. |simpleicons openbsd| image:: https://img.shields.io/badge/--F2CA30?logo=openbsd&logoColor=000000
+       :target: https://www.openbsd.org
+
 --------------
 
 Open-Source
