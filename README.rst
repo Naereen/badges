@@ -1011,6 +1011,36 @@ Unlicense
     .. |forthebadge cc-sa| image:: http://ForTheBadge.com/images/badges/cc-sa.svg
        :target: https://creativecommons.org/licenses/by-sa/4.0
 
+The `Creative Commons License Buttons site <https://licensebuttons.net>`_
+also provides a customizable way to access badges in various colours or sizes.
+
+|licensebuttons by-nc-sa-white|
+
+.. code:: rst
+
+    |licensebuttons by-nc-sa-white|
+
+    .. |licensebuttons by-nc-sa-white| image:: https://licensebuttons.net/i/l/by-nc-sa/ffffff/00/00/00/88x31.png
+       :target: https://creativecommons.org/licenses/by-nc-sa/2.0
+
+|licensebuttons by-nc-sa-black|
+
+.. code:: rst
+
+    |licensebuttons by-nc-sa-black|
+
+    .. |licensebuttons by-nc-sa-black| image:: https://licensebuttons.net/i/l/by-nc-sa/000000/ff/ff/ff/88x31.png
+       :target: https://creativecommons.org/licenses/by-nc-sa/2.0
+
+|licensebuttons by-nc-sa-magenta|
+
+.. code:: rst
+
+    |licensebuttons by-nc-sa-magenta|
+
+    .. |licensebuttons by-nc-sa-magenta| image:: https://licensebuttons.net/i/l/by-nc-sa/eeeeee/ff/00/ff/88x31.png
+       :target: https://creativecommons.org/licenses/by-nc-sa/2.0
+
 --------------
 
 Simple Icons
@@ -1685,6 +1715,12 @@ License ? |GitHub license badges|
     :target: https://creativecommons.org/licenses/by-sa/4.0
 .. |forthebadge cc-sa| image:: http://ForTheBadge.com/images/badges/cc-sa.svg
     :target: https://creativecommons.org/licenses/by-sa/4.0
+.. |licensebuttons by-nc-sa-white| image:: https://licensebuttons.net/i/l/by-nc-sa/ffffff/00/00/00/88x31.png
+   :target: https://creativecommons.org/licenses/by-nc-sa/2.0
+.. |licensebuttons by-nc-sa-black| image:: https://licensebuttons.net/i/l/by-nc-sa/000000/ff/ff/ff/88x31.png
+   :target: https://creativecommons.org/licenses/by-nc-sa/2.0
+.. |licensebuttons by-nc-sa-magenta| image:: https://licensebuttons.net/i/l/by-nc-sa/eeeeee/ff/00/ff/88x31.png
+   :target: https://creativecommons.org/licenses/by-nc-sa/2.0
 .. |simpleicons vim| image:: https://img.shields.io/badge/--019733?logo=vim
     :target: https://www.vim.org
 .. |simpleicons openbsd| image:: https://img.shields.io/badge/--F2CA30?logo=openbsd&logoColor=000000
