@@ -1065,6 +1065,15 @@ Any `shields.io <https://shields.io/>`_ badge can use a logo image by adding the
     .. |simpleicons git| image:: https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff
        :target: http://git-scm.com
 
+|simpleicons xorg|
+
+.. code:: rst
+
+    |simpleicons xorg|
+
+    .. |simpleicons xorg| image:: https://img.shields.io/badge/--F28834?logo=x.org&logoColor=ffffff
+       :target: https://x.org
+
 --------------
 
 Open-Source
