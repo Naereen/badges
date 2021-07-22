@@ -1083,6 +1083,15 @@ Any `shields.io <https://shields.io/>`_ badge can use a logo image by adding the
     .. |simpleicons visualstudio| image:: https://img.shields.io/badge/--6C33AF?logo=visual%20studio
        :target: https://visualstudio.microsoft.com
 
+|simpleicons golang|
+
+.. code:: rst
+
+    |simpleicons golang|
+
+    .. |simpleicons golang| image:: https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff
+       :target: https://golang.org
+
 --------------
 
 Open-Source
