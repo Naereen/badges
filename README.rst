@@ -1038,6 +1038,15 @@ Any `shields.io <https://shields.io/>`_ badge can use a logo image by adding the
     .. |simpleicons openbsd| image:: https://img.shields.io/badge/--F2CA30?logo=openbsd&logoColor=000000
        :target: https://www.openbsd.org
 
+|simpleicons suckless|
+
+.. code:: rst
+
+    |simpleicons suckless|
+
+    .. |simpleicons suckless| image:: https://img.shields.io/badge/--1177AA?logo=suckless
+       :target: https://suckless.org
+
 --------------
 
 Open-Source
