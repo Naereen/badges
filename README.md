@@ -685,6 +685,47 @@ From [isitmaintained.com](http://isitmaintained.com):
 
 ----
 
+## Simple Icons
+
+Any [shields.io](https://shields.io/) badge can use a logo image by adding the
+`logo` query parameter to the name of any logo suported by
+[Simple Icons](https://simpleicons.org/).
+
+[![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/)
+```markdown
+[![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/)
+```
+[![OpenBSD](https://img.shields.io/badge/--F2CA30?logo=openbsd&logoColor=000000)](https://www.openbsd.org/)
+```markdown
+[![OpenBSD](https://img.shields.io/badge/--F2CA30?logo=openbsd&logoColor=000000)](https://www.openbsd.org/)
+```
+[![Suckless](https://img.shields.io/badge/--1177AA?logo=suckless)](https://suckless.org/)
+```markdown
+[![Suckless](https://img.shields.io/badge/--1177AA?logo=suckless)](https://suckless.org/)
+```
+[![dwm](https://img.shields.io/badge/--1177AA?logo=dwm)](https://dwm.suckless.org/)
+```markdown
+[![dwm](https://img.shields.io/badge/--1177AA?logo=dwm)](https://dwm.suckless.org/)
+```
+[![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
+```markdown
+[![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
+```
+[![x11](https://img.shields.io/badge/--F28834?logo=x.org&logoColor=ffffff)](https://x.org/)
+```markdown
+[![x11](https://img.shields.io/badge/--F28834?logo=x.org&logoColor=ffffff)](https://x.org/)
+```
+[![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/)
+```markdown
+[![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/)
+```
+[![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
+```markdown
+[![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
+```
+
+----
+
 ## Open-Source
 Version 1, in SVG:
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
