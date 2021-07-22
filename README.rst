@@ -1020,6 +1020,15 @@ Any `shields.io <https://shields.io/>`_ badge can use a logo image by adding the
 ``logo`` query parameter to the name of any logo suported by
 `Simple Icons <https://simpleicons.org/>`_.
 
+|simpleicons vim|
+
+.. code:: rst
+
+    |simpleicons vim|
+
+    .. |simpleicons vim| image:: https://img.shields.io/badge/--019733?logo=vim
+       :target: https://www.vim.org
+
 --------------
 
 Open-Source
