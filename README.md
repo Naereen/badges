@@ -65,6 +65,7 @@ A list of badges, with their Markdown code, that can be included in a `README.md
     - [GPLv3 License](#gplv3-license)
     - [Unlicense](#unlicense)
     - [Creative Commons Licenses](#creative-commons-licenses)
+  - [Simple Icons](#simple-icons)
   - [Open-Source](#open-source)
   - [Meta badges ?!](#meta-badges-)
   - [DOI and Zenodo](#doi-and-zenodo)
