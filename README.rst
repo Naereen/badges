@@ -888,6 +888,18 @@ GPLv3 License
     .. |GPL license| image:: https://img.shields.io/badge/License-GPL-blue.svg
        :target: http://perso.crans.org/besson/LICENSE.html
 
+Unlicense
+~~~~~~~~~~~~~
+
+|Unlicense|
+
+.. code:: rst
+
+    |Unlicense|
+
+    .. |Unlicense| image:: https://img.shields.io/badge/License-Unlicense-blue.svg
+       :target: https://unlicense.org/
+
 `Creative Commons Licenses <https://creativecommons.org/licenses/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1566,6 +1578,8 @@ License ? |GitHub license badges|
     :target: http://perso.crans.org/besson/LICENSE.html
 .. |GPL license| image:: https://img.shields.io/badge/License-GPL-blue.svg
     :target: http://perso.crans.org/besson/LICENSE.html
+.. |Unlicense| image:: https://img.shields.io/badge/License-Unlicense-blue.svg
+    :target: https://unlicense.org/
 .. |CC-0 license| image:: https://img.shields.io/badge/License-CC--0-blue.svg
     :target: https://creativecommons.org/licenses/by-nd/4.0
 .. |forthebadge cc-0| image:: http://ForTheBadge.com/images/badges/cc-0.svg
