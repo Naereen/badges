@@ -1685,6 +1685,22 @@ License ? |GitHub license badges|
     :target: https://creativecommons.org/licenses/by-sa/4.0
 .. |forthebadge cc-sa| image:: http://ForTheBadge.com/images/badges/cc-sa.svg
     :target: https://creativecommons.org/licenses/by-sa/4.0
+.. |simpleicons vim| image:: https://img.shields.io/badge/--019733?logo=vim
+    :target: https://www.vim.org
+.. |simpleicons openbsd| image:: https://img.shields.io/badge/--F2CA30?logo=openbsd&logoColor=000000
+    :target: https://www.openbsd.org
+.. |simpleicons suckless| image:: https://img.shields.io/badge/--1177AA?logo=suckless
+    :target: https://suckless.org
+.. |simpleicons dwm| image:: https://img.shields.io/badge/--1177AA?logo=dwm
+    :target: https://dwm.suckless.org
+.. |simpleicons git| image:: https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff
+    :target: http://git-scm.com
+.. |simpleicons xorg| image:: https://img.shields.io/badge/--F28834?logo=x.org&logoColor=ffffff
+    :target: https://x.org
+.. |simpleicons visualstudio| image:: https://img.shields.io/badge/--6C33AF?logo=visual%20studio
+    :target: https://visualstudio.microsoft.com
+.. |simpleicons golang| image:: https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff
+    :target: https://golang.org
 .. |Open Source Love svg1| image:: https://badges.frapsoft.com/os/v1/open-source.svg?v=103
     :target: https://github.com/ellerbrock/open-source-badges/
 .. |Open Source Love png1| image:: https://badges.frapsoft.com/os/v1/open-source.png?v=103
