@@ -323,6 +323,27 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 
 ----
 
+## [JavaScript](https://www.javascript.com) related
+
+[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+```markdown
+[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+```
+
+### [JSDelivr](https://www.jsdelivr.com/)  downloads
+
+[![JSDelivr CDN](https://data.jsdelivr.com/v1/package/gh/jquery/jquery/badge?style=rounded)](https://www.jsdelivr.com/package/gh/jquery/jquery)
+```markdown
+[![JSDelivr CDN](https://data.jsdelivr.com/v1/package/gh/<USERNAME>/<REPOSITORY>/badge?style=rounded)](https://www.jsdelivr.com/package/gh/<USERNAME>/<REPOSITORY>)
+```
+
+[![jsDelivr CDN](https://img.shields.io/jsdelivr/gh/hm/jquery/jquery)](https://www.jsdelivr.com/package/gh/jquery/jquery)
+```markdown
+[![jsDelivr CDN](https://img.shields.io/jsdelivr/gh/hm/<USERNAME>/<REPOSITORY>)](https://www.jsdelivr.com/package/gh/<USERNAME>/<REPOSITORY>)
+```
+
+----
+
 ## [GNU Bash](https://www.gnu.org/software/bash/) related
 
 [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
