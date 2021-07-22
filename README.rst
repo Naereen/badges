@@ -1013,6 +1013,15 @@ Unlicense
 
 --------------
 
+Simple Icons
+------------
+
+Any `shields.io <https://shields.io/>`_ badge can use a logo image by adding the
+``logo`` query parameter to the name of any logo suported by
+`Simple Icons <https://simpleicons.org/>`_.
+
+--------------
+
 Open-Source
 -----------
 
