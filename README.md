@@ -30,6 +30,8 @@ A list of badges, with their Markdown code, that can be included in a `README.md
     - [PyPI python versions](#pypi-python-versions)
     - [PyPI implementation](#pypi-implementation)
     - [PyPI status](#pypi-status)
+  - [JavaScript related](#javascript-related)
+    - [JSDelivr downloads](#jsdelivr--downloads)
   - [GNU Bash related](#gnu-bash-related)
   - [Microsoft Visual Studio Code related](#microsoft-visual-studio-code-related)
   - [Read the Docs status](#read-the-docs-status)
