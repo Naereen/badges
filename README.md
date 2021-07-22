@@ -683,6 +683,22 @@ From [isitmaintained.com](http://isitmaintained.com):
 [![forthebadge cc-sa](http://ForTheBadge.com/images/badges/cc-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0)
 ```
 
+The [Creative Commons License Buttons site](https://licensebuttons.net/) also
+provides a customizable way to access badges in various colours or sizes.
+
+[![Attribution-NonCommercial-ShareAlike](https://licensebuttons.net/i/l/by-nc-sa/ffffff/00/00/00/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+```markdown
+[![Attribution-NonCommercial-ShareAlike](https://licensebuttons.net/i/l/by-nc-sa/ffffff/00/00/00/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+```
+[![Attribution-NonCommercial-ShareAlike](https://licensebuttons.net/i/l/by-nc-sa/000000/ff/ff/ff/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+```markdown
+[![Attribution-NonCommercial-ShareAlike](https://licensebuttons.net/i/l/by-nc-sa/000000/ff/ff/ff/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+```
+[![Attribution-NonCommercial-ShareAlike](https://licensebuttons.net/i/l/by-nc-sa/eeeeee/ff/00/ff/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+```markdown
+[![Attribution-NonCommercial-ShareAlike](https://licensebuttons.net/i/l/by-nc-sa/eeeeee/ff/00/ff/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+```
+
 ----
 
 ## Simple Icons
