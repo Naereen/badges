@@ -30,6 +30,8 @@ A list of badges, with their Markdown code, that can be included in a `README.md
     - [PyPI python versions](#pypi-python-versions)
     - [PyPI implementation](#pypi-implementation)
     - [PyPI status](#pypi-status)
+  - [JavaScript related](#javascript-related)
+    - [JSDelivr downloads](#jsdelivr--downloads)
   - [GNU Bash related](#gnu-bash-related)
   - [Microsoft Visual Studio Code related](#microsoft-visual-studio-code-related)
   - [Read the Docs status](#read-the-docs-status)
@@ -61,7 +63,9 @@ A list of badges, with their Markdown code, that can be included in a `README.md
   - [Licenses](#licenses)
     - [MIT License](#mit-license)
     - [GPLv3 License](#gplv3-license)
+    - [Unlicense](#unlicense)
     - [Creative Commons Licenses](#creative-commons-licenses)
+  - [Simple Icons](#simple-icons)
   - [Open-Source](#open-source)
   - [Meta badges ?!](#meta-badges-)
   - [DOI and Zenodo](#doi-and-zenodo)
@@ -318,6 +322,27 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 [![PyPI status](https://img.shields.io/pypi/status/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 ```markdown
 [![PyPI status](https://img.shields.io/pypi/status/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+```
+
+----
+
+## [JavaScript](https://www.javascript.com) related
+
+[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+```markdown
+[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+```
+
+### [JSDelivr](https://www.jsdelivr.com/)  downloads
+
+[![JSDelivr CDN](https://data.jsdelivr.com/v1/package/gh/jquery/jquery/badge?style=rounded)](https://www.jsdelivr.com/package/gh/jquery/jquery)
+```markdown
+[![JSDelivr CDN](https://data.jsdelivr.com/v1/package/gh/<USERNAME>/<REPOSITORY>/badge?style=rounded)](https://www.jsdelivr.com/package/gh/<USERNAME>/<REPOSITORY>)
+```
+
+[![jsDelivr CDN](https://img.shields.io/jsdelivr/gh/hm/jquery/jquery)](https://www.jsdelivr.com/package/gh/jquery/jquery)
+```markdown
+[![jsDelivr CDN](https://img.shields.io/jsdelivr/gh/hm/<USERNAME>/<REPOSITORY>)](https://www.jsdelivr.com/package/gh/<USERNAME>/<REPOSITORY>)
 ```
 
 ----
@@ -680,6 +705,63 @@ From [isitmaintained.com](http://isitmaintained.com):
 [![forthebadge cc-sa](http://ForTheBadge.com/images/badges/cc-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0)
 ```markdown
 [![forthebadge cc-sa](http://ForTheBadge.com/images/badges/cc-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0)
+```
+
+The [Creative Commons License Buttons site](https://licensebuttons.net/) also
+provides a customizable way to access badges in various colours or sizes.
+
+[![Attribution-NonCommercial-ShareAlike](https://licensebuttons.net/i/l/by-nc-sa/ffffff/00/00/00/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+```markdown
+[![Attribution-NonCommercial-ShareAlike](https://licensebuttons.net/i/l/by-nc-sa/ffffff/00/00/00/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+```
+[![Attribution-NonCommercial-ShareAlike](https://licensebuttons.net/i/l/by-nc-sa/000000/ff/ff/ff/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+```markdown
+[![Attribution-NonCommercial-ShareAlike](https://licensebuttons.net/i/l/by-nc-sa/000000/ff/ff/ff/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+```
+[![Attribution-NonCommercial-ShareAlike](https://licensebuttons.net/i/l/by-nc-sa/eeeeee/ff/00/ff/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+```markdown
+[![Attribution-NonCommercial-ShareAlike](https://licensebuttons.net/i/l/by-nc-sa/eeeeee/ff/00/ff/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+```
+
+----
+
+## Simple Icons
+
+Any [shields.io](https://shields.io/) badge can use a logo image by adding the
+`logo` query parameter to the name of any logo suported by
+[Simple Icons](https://simpleicons.org/).
+
+[![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/)
+```markdown
+[![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/)
+```
+[![OpenBSD](https://img.shields.io/badge/--F2CA30?logo=openbsd&logoColor=000000)](https://www.openbsd.org/)
+```markdown
+[![OpenBSD](https://img.shields.io/badge/--F2CA30?logo=openbsd&logoColor=000000)](https://www.openbsd.org/)
+```
+[![Suckless](https://img.shields.io/badge/--1177AA?logo=suckless)](https://suckless.org/)
+```markdown
+[![Suckless](https://img.shields.io/badge/--1177AA?logo=suckless)](https://suckless.org/)
+```
+[![dwm](https://img.shields.io/badge/--1177AA?logo=dwm)](https://dwm.suckless.org/)
+```markdown
+[![dwm](https://img.shields.io/badge/--1177AA?logo=dwm)](https://dwm.suckless.org/)
+```
+[![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
+```markdown
+[![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
+```
+[![x11](https://img.shields.io/badge/--F28834?logo=x.org&logoColor=ffffff)](https://x.org/)
+```markdown
+[![x11](https://img.shields.io/badge/--F28834?logo=x.org&logoColor=ffffff)](https://x.org/)
+```
+[![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/)
+```markdown
+[![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/)
+```
+[![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
+```markdown
+[![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
 ```
 
 ----

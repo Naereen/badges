@@ -383,6 +383,41 @@ example|
 
     .. |PyPI status| image:: https://img.shields.io/pypi/status/ansicolortags.svg
        :target: https://pypi.python.org/pypi/ansicolortags/
+       
+--------------
+
+`JavaScript <https://www.javascript.com/>`__ related
+----------------------------------------------------
+
+|made-with-javascript|
+
+.. code:: rst
+
+    |made-with-javascript|
+
+    .. |made-with-JavaScript| image:: https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg
+       :target: https://www.javascript.com
+
+`JSDelivr <https://www.jsdelivr.com/>`__ downloads
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+|jsdelivr downloads official|
+
+.. code:: rst
+
+    |jsdelivr downloads official|
+
+    .. |jsdelivr downloads official| image:: https://data.jsdelivr.com/v1/package/gh/<USERNAME>/<REPOSITORY>/badge?style=rounded
+       :target: https://www.jsdelivr.com/package/gh/<USERNAME>/<REPOSITORY>
+
+|jsdelivr downloads shields|
+
+.. code:: rst
+
+    |jsdelivr downloads shields|
+
+    .. |jsdelivr downloads shields| image:: https://img.shields.io/jsdelivr/gh/hm/<USERNAME>/<REPOSITORY>
+       :target: https://www.jsdelivr.com/package/gh/<USERNAME>/<REPOSITORY>
 
 --------------
 
@@ -1011,6 +1046,117 @@ Unlicense
     .. |forthebadge cc-sa| image:: http://ForTheBadge.com/images/badges/cc-sa.svg
        :target: https://creativecommons.org/licenses/by-sa/4.0
 
+The `Creative Commons License Buttons site <https://licensebuttons.net>`_
+also provides a customizable way to access badges in various colours or sizes.
+
+|licensebuttons by-nc-sa-white|
+
+.. code:: rst
+
+    |licensebuttons by-nc-sa-white|
+
+    .. |licensebuttons by-nc-sa-white| image:: https://licensebuttons.net/i/l/by-nc-sa/ffffff/00/00/00/88x31.png
+       :target: https://creativecommons.org/licenses/by-nc-sa/2.0
+
+|licensebuttons by-nc-sa-black|
+
+.. code:: rst
+
+    |licensebuttons by-nc-sa-black|
+
+    .. |licensebuttons by-nc-sa-black| image:: https://licensebuttons.net/i/l/by-nc-sa/000000/ff/ff/ff/88x31.png
+       :target: https://creativecommons.org/licenses/by-nc-sa/2.0
+
+|licensebuttons by-nc-sa-magenta|
+
+.. code:: rst
+
+    |licensebuttons by-nc-sa-magenta|
+
+    .. |licensebuttons by-nc-sa-magenta| image:: https://licensebuttons.net/i/l/by-nc-sa/eeeeee/ff/00/ff/88x31.png
+       :target: https://creativecommons.org/licenses/by-nc-sa/2.0
+
+--------------
+
+Simple Icons
+------------
+
+Any `shields.io <https://shields.io/>`_ badge can use a logo image by adding the
+``logo`` query parameter to the name of any logo suported by
+`Simple Icons <https://simpleicons.org/>`_.
+
+|simpleicons vim|
+
+.. code:: rst
+
+    |simpleicons vim|
+
+    .. |simpleicons vim| image:: https://img.shields.io/badge/--019733?logo=vim
+       :target: https://www.vim.org
+
+|simpleicons openbsd|
+
+.. code:: rst
+
+    |simpleicons openbsd|
+
+    .. |simpleicons openbsd| image:: https://img.shields.io/badge/--F2CA30?logo=openbsd&logoColor=000000
+       :target: https://www.openbsd.org
+
+|simpleicons suckless|
+
+.. code:: rst
+
+    |simpleicons suckless|
+
+    .. |simpleicons suckless| image:: https://img.shields.io/badge/--1177AA?logo=suckless
+       :target: https://suckless.org
+
+|simpleicons dwm|
+
+.. code:: rst
+
+    |simpleicons dwm|
+
+    .. |simpleicons dwm| image:: https://img.shields.io/badge/--1177AA?logo=dwm
+       :target: https://dwm.suckless.org
+
+|simpleicons git|
+
+.. code:: rst
+
+    |simpleicons git|
+
+    .. |simpleicons git| image:: https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff
+       :target: http://git-scm.com
+
+|simpleicons xorg|
+
+.. code:: rst
+
+    |simpleicons xorg|
+
+    .. |simpleicons xorg| image:: https://img.shields.io/badge/--F28834?logo=x.org&logoColor=ffffff
+       :target: https://x.org
+
+|simpleicons visualstudio|
+
+.. code:: rst
+
+    |simpleicons visualstudio|
+
+    .. |simpleicons visualstudio| image:: https://img.shields.io/badge/--6C33AF?logo=visual%20studio
+       :target: https://visualstudio.microsoft.com
+
+|simpleicons golang|
+
+.. code:: rst
+
+    |simpleicons golang|
+
+    .. |simpleicons golang| image:: https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff
+       :target: https://golang.org
+
 --------------
 
 Open-Source
@@ -1496,6 +1642,12 @@ License ? |GitHub license badges|
     :target: https://pypi.python.org/pypi/ansicolortags/
 .. |PyPI status| image:: https://img.shields.io/pypi/status/ansicolortags.svg
     :target: https://pypi.python.org/pypi/ansicolortags/
+.. |made-with-JavaScript| image:: https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg
+   :target: https://www.javascript.com
+.. |jsdelivr downloads official| image:: https://data.jsdelivr.com/v1/package/gh/jquery/jquery/badge?style=rounded
+   :target: https://www.jsdelivr.com/package/gh/jquery/jquery
+.. |jsdelivr downloads shields| image:: https://img.shields.io/jsdelivr/gh/hm/jquery/jquery
+   :target: https://www.jsdelivr.com/package/gh/jquery/jquery
 .. |Bash Shell| image:: https://badges.frapsoft.com/bash/v1/bash.png?v=103
     :target: https://github.com/ellerbrock/open-source-badges/
 .. |made-with-bash| image:: https://img.shields.io/badge/Made%20with-Bash-1f425f.svg
@@ -1604,6 +1756,28 @@ License ? |GitHub license badges|
     :target: https://creativecommons.org/licenses/by-sa/4.0
 .. |forthebadge cc-sa| image:: http://ForTheBadge.com/images/badges/cc-sa.svg
     :target: https://creativecommons.org/licenses/by-sa/4.0
+.. |licensebuttons by-nc-sa-white| image:: https://licensebuttons.net/i/l/by-nc-sa/ffffff/00/00/00/88x31.png
+   :target: https://creativecommons.org/licenses/by-nc-sa/2.0
+.. |licensebuttons by-nc-sa-black| image:: https://licensebuttons.net/i/l/by-nc-sa/000000/ff/ff/ff/88x31.png
+   :target: https://creativecommons.org/licenses/by-nc-sa/2.0
+.. |licensebuttons by-nc-sa-magenta| image:: https://licensebuttons.net/i/l/by-nc-sa/eeeeee/ff/00/ff/88x31.png
+   :target: https://creativecommons.org/licenses/by-nc-sa/2.0
+.. |simpleicons vim| image:: https://img.shields.io/badge/--019733?logo=vim
+    :target: https://www.vim.org
+.. |simpleicons openbsd| image:: https://img.shields.io/badge/--F2CA30?logo=openbsd&logoColor=000000
+    :target: https://www.openbsd.org
+.. |simpleicons suckless| image:: https://img.shields.io/badge/--1177AA?logo=suckless
+    :target: https://suckless.org
+.. |simpleicons dwm| image:: https://img.shields.io/badge/--1177AA?logo=dwm
+    :target: https://dwm.suckless.org
+.. |simpleicons git| image:: https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff
+    :target: http://git-scm.com
+.. |simpleicons xorg| image:: https://img.shields.io/badge/--F28834?logo=x.org&logoColor=ffffff
+    :target: https://x.org
+.. |simpleicons visualstudio| image:: https://img.shields.io/badge/--6C33AF?logo=visual%20studio
+    :target: https://visualstudio.microsoft.com
+.. |simpleicons golang| image:: https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff
+    :target: https://golang.org
 .. |Open Source Love svg1| image:: https://badges.frapsoft.com/os/v1/open-source.svg?v=103
     :target: https://github.com/ellerbrock/open-source-badges/
 .. |Open Source Love png1| image:: https://badges.frapsoft.com/os/v1/open-source.png?v=103
