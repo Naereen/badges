@@ -13,6 +13,7 @@ A list of badges, with their Markdown code, that can be included in a `README.md
   - [Useful](#useful)
     - [Maintained?](#maintained)
     - [Website up/down](#website-updown)
+    - [Operating system](#operating-system)
   - [Feedback](#feedback)
     - [*"Ask me anything"* in English](#ask-me-anything-in-english)
     - [*"Demandez moi n'importe quoi"* in French](#demandez-moi-nimporte-quoi-in-french)
@@ -153,6 +154,23 @@ Worse: [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://u
 [![Website myfakewebsitethatshouldnotexist.at.least.i.hope](https://img.shields.io/website-up-down-green-red/http/myfakewebsitethatshouldnotexist.at.least.i.hope.svg)](http://myfakewebsitethatshouldnotexist.at.least.i.hope/)
 ```markdown
 [![Website myfakewebsitethatshouldnotexist.at.least.i.hope](https://img.shields.io/website-up-down-green-red/http/myfakewebsitethatshouldnotexist.at.least.i.hope.svg)](http://myfakewebsitethatshouldnotexist.at.least.i.hope/)
+```
+
+### Operating system
+
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+```markdown
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+```
+
+[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
+```markdown
+[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
+```
+
+[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+```markdown
+[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 ```
 
 ----
