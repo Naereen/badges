@@ -107,7 +107,7 @@ Maintained: [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green
 
 Maintaner: ![Maintaner](https://img.shields.io/badge/maintainer-theMaintainer-blue)
 ```markdown
-![Maintaner](https://img.shields.io/badge/maintainer-theMaintainer-blue)
+![Maintainer](https://img.shields.io/badge/maintainer-theMaintainer-blue)
 ```
 
 Not maintained: [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
@@ -450,9 +450,9 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 [![Github releases (by release)](https://img.shields.io/github/downloads/Naereen/StrapDown.js/v1.1/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 ```
 
-[![Github releases (by Release)](https://img.shields.io/github/downloads/Naereen/StrapDown.js/v1.0.0/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
+[![Github releases (by release)](https://img.shields.io/github/downloads/Naereen/StrapDown.js/v1.0.0/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 ```markdown
-[![Github Releases (by Release)](https://img.shields.io/github/downloads/Naereen/StrapDown.js/v1.0.0/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
+[![Github Releases (by release)](https://img.shields.io/github/downloads/Naereen/StrapDown.js/v1.0.0/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 ```
 
 [![Github releases (by asset)](https://img.shields.io/github/downloads/Naereen/StrapDown.js/latest/strapdown.min.js)](https://GitHub.com/Naereen/StrapDown.js/releases/)
