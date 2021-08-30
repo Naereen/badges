@@ -105,7 +105,7 @@ Maintained: [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 ```
 
-Maintaner: ![Maintaner](https://img.shields.io/badge/maintainer-theMaintainer-blue)
+Maintainer: ![Maintaner](https://img.shields.io/badge/maintainer-theMaintainer-blue)
 ```markdown
 ![Maintainer](https://img.shields.io/badge/maintainer-theMaintainer-blue)
 ```
