@@ -362,6 +362,10 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 ```markdown
 [![jsDelivr CDN](https://img.shields.io/jsdelivr/gh/hm/<USERNAME>/<REPOSITORY>)](https://www.jsdelivr.com/package/gh/<USERNAME>/<REPOSITORY>)
 ```
+[![jsDelivr rank](https://badgen.net/jsdelivr/rank/npm/lodash)](https://www.jsdelivr.com/)
+```markdown
+[![jsDelivr rank](https://badgen.net/jsdelivr/rank/npm/lodash)](https://www.jsdelivr.com/)
+```
 ### [Npm](https://npmjs.com) version
 
 [![Npm package version](https://badgen.net/npm/v/express)](https://npmjs.com/package/express)
@@ -920,7 +924,6 @@ This is a badge to link to a [DOI](https://doi.org/):
 ## Discord
 Discord Badges
 
-
 [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vpEv3HJ)
 ```markdown
 [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vpEv3HJ)
@@ -933,7 +936,6 @@ Discord Badges
 ```markdown
 [![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/vpEv3HJ)
 ```
-
 ----
 
 ## Jetbrains
@@ -1030,7 +1032,10 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
 ```markdown
 ![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)
 ```
-
+[![Twitter Followers](https://badgen.net/twitter/follow/javascript)](https://twitter.com/javascript)
+```markdown
+[![Twitter Followers](https://badgen.net/twitter/follow/javascript)](https://twitter.com/javascript)
+```
 ### Built by...
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
 ```markdown
