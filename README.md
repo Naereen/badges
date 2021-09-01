@@ -362,6 +362,18 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 ```markdown
 [![jsDelivr CDN](https://img.shields.io/jsdelivr/gh/hm/<USERNAME>/<REPOSITORY>)](https://www.jsdelivr.com/package/gh/<USERNAME>/<REPOSITORY>)
 ```
+### [Npm](https://npmjs.com) version
+
+[![Npm package version](https://badgen.net/npm/v/express)](https://npmjs.com/package/express)
+````markdown
+[![Npm package version](https://badgen.net/npm/v/express)](https://npmjs.com/package/express)
+````
+
+### [Npm](https://npmjs.com) downloads
+
+[![Npm package yearly downloads]()]()
+
+
 
 ----
 
