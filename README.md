@@ -393,9 +393,9 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 ```markdown
 [![Minimum node.js version](https://badgen.net/npm/node/express)](https://npmjs.ccom/package/express)
 ```
-[![Npm package license](https://badgen.net/npm/license/express)](https://npmjs.ccom/package/express)
+[![Npm package license](https://badgen.net/npm/license/discord.js)](https://npmjs.ccom/package/discord.js)
 ```markdown 
-[![Npm package license](https://badgen.net/npm/license/express)](https://npmjs.ccom/package/express)
+[![Npm package license](https://badgen.net/npm/llicense/discord.js)](https://npmjs.ccom/package/discord.js)
 ```
 [![Npm package dependents](https://badgen.net/npm/dependents/express)](https://npmjs.ccom/package/express)
 ```markdown
