@@ -371,10 +371,18 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 
 ### [Npm](https://npmjs.com) downloads
 
-[![Npm package yearly downloads]()]()
-
-
-
+[![Npm package yearly downloads](https://badgen.net/npm/dy/express)](https://npmjs.com/package/express)
+```markdown
+[![Npm package yearly downloads](https://badgen.net/npm/dy/express)](https://npmjs.com/package/express)
+```
+[![Npm package monthly downloads](https://badgen.net/npm/dm/express)](https://npmjs.ccom/package/express)
+```markdown
+[![Npm package monthly downloads](https://badgen.net/npm/dm/express)](https://npmjs.ccom/package/express)
+```
+[![Npm package daily downloads](https://badgen.net/npm/dd/express)](https://npmjs.ccom/package/express)
+```markdown
+[![Npm package daily downloads](https://badgen.net/npm/dm/express)](https://npmjs.ccom/package/express)
+```
 ----
 
 ## [GNU Bash](https://www.gnu.org/software/bash/) related
