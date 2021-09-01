@@ -383,6 +383,25 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 ```markdown
 [![Npm package daily downloads](https://badgen.net/npm/dm/express)](https://npmjs.ccom/package/express)
 ```
+[![Npm package total downloads](https://badgen.net/npm/dt/express)](https://npmjs.ccom/package/express)
+```markdown
+[![Npm package total downloads](https://badgen.net/npm/dt/express)](https://npmjs.ccom/package/express)
+```
+### Miscellaneous
+
+[![Minimum node.js version](https://badgen.net/npm/node/express)](https://npmjs.ccom/package/express)
+```markdown
+[![Minimum node.js version](https://badgen.net/npm/node/express)](https://npmjs.ccom/package/express)
+```
+[![Npm package license](https://badgen.net/npm/license/express)](https://npmjs.ccom/package/express)
+```markdown 
+[![Npm package license](https://badgen.net/npm/license/express)](https://npmjs.ccom/package/express)
+```
+[![Npm package dependents](https://badgen.net/npm/dependents/express)](https://npmjs.ccom/package/express)
+```markdown
+[![Npm package dependents](https://badgen.net/npm/dependents/express)](https://npmjs.ccom/package/express)
+```
+
 ----
 
 ## [GNU Bash](https://www.gnu.org/software/bash/) related
