@@ -762,6 +762,31 @@ From [isitmaintained.com](http://isitmaintained.com):
 ### Branches
 [![GitLab branch](https://badgen.net/gitlab/branches/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/branches)
 
+### Releases
+[![GitLab release](https://badgen.net/gitlab/releases/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/releases)
+```markdown
+[![GitLab release](https://badgen.net/gitlab/releases/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/releases)
+```
+[![GitLab latest release](https://badgen.net/gitlab/release/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/releases)
+```markdown
+[![GitLab latest release](https://badgen.net/gitlab/release/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/releases)
+```
+### Tags
+[![GitLab tags](https://badgen.net/gitlab/tags/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/tags)
+```markdown
+[![GitLab tags](https://badgen.net/gitlab/tags/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/tags)
+```
+### Commits
+[![GitLab commit count](https://badgen.net/gitlab/commits/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/commits)
+```markdown
+[![GitLab commit count](https://badgen.net/gitlab/commits/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/commits)
+```
+[![GitLab last commit](https://badgen.net/gitlab/last-commit/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/commits)
+```markdown
+[![GitLab last commit](https://badgen.net/gitlab/last-commit/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/commits)
+```
+----
+
 ## Bitbucket related
 ### Bitbucket issues
 [![Bitbucket issues](https://img.shields.io/bitbucket/issues/lbesson/bin.svg)](https://Bitbucket.org/lbesson/bin/issues/)
