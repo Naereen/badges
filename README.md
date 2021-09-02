@@ -716,6 +716,52 @@ From [isitmaintained.com](http://isitmaintained.com):
 
 ----
 
+## GitLab related
+### Gitlab issues
+[![GitLab issues open](https://badgen.net/gitlab/open-issues/gitlab-org/gitlab-runner)](https://gitlab.com/gitlab-org/gitlab-runner)
+```markdown
+[![GitLab issues open](https://badgen.net/gitlab/open-issues/gitlab-org/gitlab-runner)](https://gitlab.com/gitlab-org/gitlab-runner)
+```
+[![GitLab issues closed](https://badgen.net/gitlab/closed-issues/gitlab-org/gitlab-runner)](https://gitlab.com/gitlab-org/gitlab-runner)
+```markdown
+[![GitLab issues closed](https://badgen.net/gitlab/closed-issues/gitlab-org/gitlab-runner)](https://gitlab.com/gitlab-org/gitlab-runner)
+```
+[![GitLab issues total](https://badgen.net/gitlab/issues/gitlab-org/gitlab-runner)](https://gitlab.com/gitlab-org/gitlab-runner)
+```markdown
+[![GitLab issues total](https://badgen.net/gitlab/issues/gitlab-org/gitlab-runner)](https://gitlab.com/gitlab-org/gitlab-runner)
+```
+[![GitLab issues by label](https://badgen.net/gitlab/label-issues/NickBusey/HomelabOS/Bug)](https://gitlab.com/NickBusey/HomelabOS/-/issues?scope=all&state=all&label_name[]=Bug)
+```markdown
+[![GitLab issues by label](https://badgen.net/gitlab/label-issues/NickBusey/HomelabOS/Bug)](https://gitlab.com/NickBusey/HomelabOS/-/issues?scope=all&state=all&label_name[]=Bug)
+```
+[![GitLab open issues by label](https://badgen.net/gitlab/label-issues/NickBusey/HomelabOS/Bug)](https://gitlab.com/NickBusey/HomelabOS/-/issues?scope=all&state=open&label_name[]=Bug)
+```markdown
+[![GitLab issues by label](https://badgen.net/gitlab/label-issues/NickBusey/HomelabOS/Bug)](https://gitlab.com/NickBusey/HomelabOS/-/issues?scope=all&state=open&label_name[]=Bug)
+```
+[![GitLab issues by label](https://badgen.net/gitlab/label-issues/NickBusey/HomelabOS/Bug)](https://gitlab.com/NickBusey/HomelabOS/-/issues?scope=all&state=closed&label_name[]=Bug)
+```markdown
+[![GitLab issues by label](https://badgen.net/gitlab/label-issues/NickBusey/HomelabOS/Bug)](https://gitlab.com/NickBusey/HomelabOS/-/issues?scope=all&state=closed&label_name[]=Bug)
+```
+### MR's
+[![GitLab mrs](https://badgen.net/gitlab/mrs/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/merge_requests?scope=all&state=all)
+```markdown
+[![GitLab mrs](https://badgen.net/gitlab/mrs/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/merge_requests?scope=all&state=all)
+```
+[![GitLab open mrs](https://badgen.net/gitlab/open-mrs/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/merge_requests?scope=all&state=open)
+```markdown
+[![GitLab open mrs](https://badgen.net/gitlab/open-mrs/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/merge_requests?scope=all&state=opem)
+```
+[![GitLab closed mrs](https://badgen.net/gitlab/closed-mrs/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/merge_requests?scope=all&state=closed)
+```markdown
+[![GitLab closed mrs](https://badgen.net/gitlab/closed-mrs/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/merge_requests?scope=all&state=closed)
+```
+[![GitLab merged mrs](https://badgen.net/gitlab/merged-mrs/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/merge_requests?scope=all&state=merged)
+```markdown
+[![GitLab merged mrs](https://badgen.net/gitlab/merged-mrs/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/merge_requests?scope=all&state=merged)
+```
+### Branches
+[![GitLab branch](https://badgen.net/gitlab/branches/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/branches)
+
 ## Bitbucket related
 ### Bitbucket issues
 [![Bitbucket issues](https://img.shields.io/bitbucket/issues/lbesson/bin.svg)](https://Bitbucket.org/lbesson/bin/issues/)
@@ -1020,9 +1066,9 @@ Any [shields.io](https://shields.io/) badge can use a logo image by adding the
 ```markdown
 [![Ruby](https://badgen.net/badge/icon/ruby?icon=ruby&label)](https://https://ruby-lang.org/)
 ```
-[![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)]
+[Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
 ```markdown
-[![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)]
+[Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
 ```
 [![TravisCI](https://badgen.net/badge/icon/travis?icon=travis&label)](https://travis-ci.org)
 ```markdown
