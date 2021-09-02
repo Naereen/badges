@@ -716,7 +716,7 @@ From [isitmaintained.com](http://isitmaintained.com):
 
 ----
 
-## GitLab related
+## [GitLab](https://gitlab.com) related
 ### Gitlab issues
 [![GitLab issues open](https://badgen.net/gitlab/open-issues/gitlab-org/gitlab-runner)](https://gitlab.com/gitlab-org/gitlab-runner)
 ```markdown
@@ -787,7 +787,7 @@ From [isitmaintained.com](http://isitmaintained.com):
 ```
 ----
 
-## Bitbucket related
+## [Bitbucket](https://bitbucket.org) related
 ### Bitbucket issues
 [![Bitbucket issues](https://img.shields.io/bitbucket/issues/lbesson/bin.svg)](https://Bitbucket.org/lbesson/bin/issues/)
 ```markdown
