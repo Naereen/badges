@@ -471,20 +471,18 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 ```markdown
 [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 ```
-[![Latest release](https://badgen.net/github/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/releases)
+[![Latest release](https://badgen.net/github/release/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/releases)
 ```markdown
-[![Latest release](https://badgen.net/github/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/releases)
+[![Latest release](https://badgen.net/github/release/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/releases)
 ```
-[![Latest stable release](https://badgen.net/github/Naereen/Stradown.js/stable)]()
-```markdown
-[![Latest stable release](https://badgen.net/github/Naereen/Stradown.js/stable)]()
-```
-
 [![GitHub tag](https://img.shields.io/github/tag/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/tags/)
 ```markdown
 [![GitHub tag](https://img.shields.io/github/tag/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/tags/)
 ```
-
+[![Github tag](https://badgen.net/github/tag/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/tags/)
+```markdown
+[![Github tag](https://badgen.net/github/tag/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/tags/)
+```
 [![GitHub commits](https://img.shields.io/github/commits-since/Naereen/StrapDown.js/v1.0.0.svg)](https://GitHub.com/Naereen/StrapDown.js/commit/)
 ```markdown
 [![GitHub commits](https://img.shields.io/github/commits-since/Naereen/StrapDown.js/v1.0.0.svg)](https://GitHub.com/Naereen/StrapDown.js/commit/)
@@ -516,12 +514,20 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 ```markdown
 [![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/)
 ```
-
+[![GitHub forks](https://badgen.net/github/forks/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/network/)
+```markdown
+[![GitHub forks](https://badgen.net/github/forks/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/network/)
+```
 ### GitHub stars
 [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 ```markdown
 [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 ```
+[![GitHub stars](https://badgen.net/github/stars/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+```markdown
+[![GitHub stars](https://badgen.net/github/stars/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+```
+
 
 ### GitHub Stargazers over time
 [![Stargazers over time](https://starchart.cc/Naereen/badges.svg)](https://starchart.cc/Naereen/badges)
@@ -539,6 +545,10 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
 ```markdown
 [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
+```
+[![GitHub watchers](https://badgen.net/watchers/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
+```markdown
+[![GitHub watchers](https://badgen.net/watchers/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
 ```
 ![Profile views](https://gpvc.arturio.dev/Naereen)
 ```markdown
