@@ -471,6 +471,14 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 ```markdown
 [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 ```
+[![Latest release](https://badgen.net/github/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/releases)
+```markdown
+[![Latest release](https://badgen.net/github/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/releases)
+```
+[![Latest stable release](https://badgen.net/github/Naereen/Stradown.js/stable)]()
+```markdown
+[![Latest stable release](https://badgen.net/github/Naereen/Stradown.js/stable)]()
+```
 
 [![GitHub tag](https://img.shields.io/github/tag/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/tags/)
 ```markdown
