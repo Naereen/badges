@@ -306,6 +306,10 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 ```markdown
 [![PyPI version fury.io](https://badge.fury.io/py/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 ```
+[![PyPi version](https://badgen.net/pypi/v/pip/)](https://pypi.com/project/pip)
+```markdown
+[![PyPi version](https://badgen.net/pypi/v/pip/)](https://pypi.com/project/pip)
+```
 
 [![PyPI version shields.io](https://img.shields.io/pypi/v/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 ```markdown
@@ -317,6 +321,11 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 ```markdown
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 ```
+[![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.com/project/pip/)
+```markdown
+[![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.com/project/pip/)
+```
+
 
 ### [PyPI](https://pypi.python.org/) format
 [![PyPI format](https://img.shields.io/pypi/format/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
@@ -362,6 +371,49 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 ```markdown
 [![jsDelivr CDN](https://img.shields.io/jsdelivr/gh/hm/<USERNAME>/<REPOSITORY>)](https://www.jsdelivr.com/package/gh/<USERNAME>/<REPOSITORY>)
 ```
+[![jsDelivr rank](https://badgen.net/jsdelivr/rank/npm/lodash)](https://www.jsdelivr.com/)
+```markdown
+[![jsDelivr rank](https://badgen.net/jsdelivr/rank/npm/lodash)](https://www.jsdelivr.com/)
+```
+### [Npm](https://npmjs.com) version
+
+[![Npm package version](https://badgen.net/npm/v/express)](https://npmjs.com/package/express)
+````markdown
+[![Npm package version](https://badgen.net/npm/v/express)](https://npmjs.com/package/express)
+````
+
+### [Npm](https://npmjs.com) downloads
+
+[![Npm package yearly downloads](https://badgen.net/npm/dy/express)](https://npmjs.com/package/express)
+```markdown
+[![Npm package yearly downloads](https://badgen.net/npm/dy/express)](https://npmjs.com/package/express)
+```
+[![Npm package monthly downloads](https://badgen.net/npm/dm/express)](https://npmjs.ccom/package/express)
+```markdown
+[![Npm package monthly downloads](https://badgen.net/npm/dm/express)](https://npmjs.ccom/package/express)
+```
+[![Npm package daily downloads](https://badgen.net/npm/dd/express)](https://npmjs.ccom/package/express)
+```markdown
+[![Npm package daily downloads](https://badgen.net/npm/dm/express)](https://npmjs.ccom/package/express)
+```
+[![Npm package total downloads](https://badgen.net/npm/dt/express)](https://npmjs.ccom/package/express)
+```markdown
+[![Npm package total downloads](https://badgen.net/npm/dt/express)](https://npmjs.ccom/package/express)
+```
+### Miscellaneous
+
+[![Minimum node.js version](https://badgen.net/npm/node/express)](https://npmjs.ccom/package/express)
+```markdown
+[![Minimum node.js version](https://badgen.net/npm/node/express)](https://npmjs.ccom/package/express)
+```
+[![Npm package license](https://badgen.net/npm/license/discord.js)](https://npmjs.ccom/package/discord.js)
+```markdown 
+[![Npm package license](https://badgen.net/npm/llicense/discord.js)](https://npmjs.ccom/package/discord.js)
+```
+[![Npm package dependents](https://badgen.net/npm/dependents/express)](https://npmjs.ccom/package/express)
+```markdown
+[![Npm package dependents](https://badgen.net/npm/dependents/express)](https://npmjs.ccom/package/express)
+```
 
 ----
 
@@ -375,6 +427,21 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
 ```markdown
 [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
+```
+
+## [NuGet](https://nuget.org/) related
+
+[![NuGet stable version](https://badgen.net/nuget/v/newtonsoft.json)](https://nuget.org/packages/newtonsoft.json)
+```markdown
+[![NuGet stable version](https://badgen.net/nuget/v/newtonsoft.json)](https://nuget.org/packages/newtonsoft.json)
+```
+[![NuGet pre version](https://badgen.net/nuget/v/newtonsoft.json/pre)](https://nuget.org/packages/newtonsoft.json)
+```markdown
+[![NuGet pre version](https://badgen.net/nuget/v/newtonsoft.json/pre)](https://nuget.org/packages/newtonsoft.json)
+```
+[![NuGet latest version](https://badgen.net/nuget/v/newtonsoft.json/latest)](https://nuget.org/packages/newtonsoft.json)
+```markdown
+[![NuGet latest version](https://badgen.net/nuget/v/newtonsoft.json/latest)](https://nuget.org/packages/newtonsoft.json)
 ```
 
 ----
@@ -422,23 +489,42 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 ```markdown
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 ```
+[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+```markdown
+[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+```
+### GitHub branches
+[![GitHub branches](https://badgen.net/github/branches/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/)
 
 ### GitHub versions/tags/commits
 [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 ```markdown
 [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 ```
-
+[![Latest release](https://badgen.net/github/release/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/releases)
+```markdown
+[![Latest release](https://badgen.net/github/release/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/releases)
+```
 [![GitHub tag](https://img.shields.io/github/tag/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/tags/)
 ```markdown
 [![GitHub tag](https://img.shields.io/github/tag/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/tags/)
 ```
-
+[![Github tag](https://badgen.net/github/tag/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/tags/)
+```markdown
+[![Github tag](https://badgen.net/github/tag/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/tags/)
+```
 [![GitHub commits](https://img.shields.io/github/commits-since/Naereen/StrapDown.js/v1.0.0.svg)](https://GitHub.com/Naereen/StrapDown.js/commit/)
 ```markdown
 [![GitHub commits](https://img.shields.io/github/commits-since/Naereen/StrapDown.js/v1.0.0.svg)](https://GitHub.com/Naereen/StrapDown.js/commit/)
 ```
-
+[![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
+```markdown
+[![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
+```
+[![GitHub latest commit](https://badgen.net/github/last-commit/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
+```markdown
+[![GitHub latest commit](https://badgen.net/github/last-commit/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
+```
 ### GitHub downloads
 [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 ```markdown
@@ -465,12 +551,20 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 ```markdown
 [![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/)
 ```
-
+[![GitHub forks](https://badgen.net/github/forks/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/network/)
+```markdown
+[![GitHub forks](https://badgen.net/github/forks/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/network/)
+```
 ### GitHub stars
 [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 ```markdown
 [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 ```
+[![GitHub stars](https://badgen.net/github/stars/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+```markdown
+[![GitHub stars](https://badgen.net/github/stars/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+```
+
 
 ### GitHub Stargazers over time
 [![Stargazers over time](https://starchart.cc/Naereen/badges.svg)](https://starchart.cc/Naereen/badges)
@@ -489,6 +583,10 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 ```markdown
 [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
 ```
+[![GitHub watchers](https://badgen.net/github/watchers/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
+```markdown
+[![GitHub watchers](https://badgen.net/github/watchers/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
+```
 ![Profile views](https://gpvc.arturio.dev/Naereen)
 ```markdown
 ![Profile views](https://gpvc.arturio.dev/Naereen)
@@ -499,22 +597,35 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 ```markdown
 [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
 ```
-
 ### GitHub contributors
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://GitHub.com/Naereen/badges/graphs/contributors/)
 ```markdown
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://GitHub.com/Naereen/badges/graphs/contributors/)
 ```
-
+[![GitHub contributors](https://badgen.net/github/contributors/Naereen/Strapdown.js)](https://GitHub.com/Naereen/Strapdown.js/graphs/contributors/)
+```markdown
+[![GitHub contributors](https://badgen.net/github/contributors/Naereen/Strapdown.js)](https://GitHub.com/Naereen/Strapdown.js/graphs/contributors/)
+```
 ### GitHub issues
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues/)
 ```markdown
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues/)
 ```
-
+[![GitHub issues](https://badgen.net/github/issues/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/issues/)
+```markdown
+[![GitHub issues](https://badgen.net/github/issues/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/issues/)
+```
+[![GitHub issues-open](https://badgen.net/github/open-issues/Naereen/Strapdow.js)](https://github.com/Naereen/StrapDown.js/issues?q=is%3Aopen)
+```markdown
+[![GitHub issues-open](https://badgen.net/github/open-issues/Naereen/Strapdow.js)](https://github.com/Naereen/StrapDown.js/issues?q=is%3Aopen)
+```
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues?q=is%3Aissue+is%3Aclosed)
 ```markdown
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues?q=is%3Aissue+is%3Aclosed)
+```
+[![GitHub issues-closed](https://badgen.net/github/closed-issues/Naereen/Strapdow.js)](https://github.com/Naereen/StrapDown.js/issues?q=is%3Aclosed)
+```markdown
+[![GitHub issues-closed](https://badgen.net/github/closed-issues/Naereen/Strapdow.js)](https://github.com/Naereen/StrapDown.js/issues?q=is%3Aclosed)
 ```
 
 From [isitmaintained.com](http://isitmaintained.com):
@@ -534,10 +645,26 @@ From [isitmaintained.com](http://isitmaintained.com):
 ```markdown
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/pull/)
 ```
+[![GitHub total-pull-requests](https://badgen.net/github/prs/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/pull/)
+```markdown
+[![GitHub total-pull-requests](https://badgen.net/github/prs/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/pull/)
+```
+[![GitHub open-pull-requests](https://badgen.net/github/open-prs/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/pulls?q=is%3Aopen)
+```markdown
+[![GitHub open-pull-requests](https://badgen.net/github/open-prs/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/pulls?q=is%3Aopen)
+```
 
 [![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/pull/)
 ```markdown
 [![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/pull/)
+```
+[![GitHub pull-requests closed](https://badgen.net/github/closed-prs/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/pulls?q=is%3Aclosed)
+```markdown
+[![GitHub pull-requests closed](https://badgen.net/github/closed-prs/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/pulls?q=is%3Aclosed)
+```
+[![GitHub pull-requests merged](https://badgen.net/github/merged-prs/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/pulls?q=is%3Amerged)
+```markdown
+[![GitHub pull-requests merged](https://badgen.net/github/merged-prs/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/pulls?q=is%3Amerged)
 ```
 
 ### GitHub Make a Pull Requests
@@ -589,7 +716,78 @@ From [isitmaintained.com](http://isitmaintained.com):
 
 ----
 
-## Bitbucket related
+## [GitLab](https://gitlab.com) related
+### Gitlab issues
+[![GitLab issues open](https://badgen.net/gitlab/open-issues/gitlab-org/gitlab-runner)](https://gitlab.com/gitlab-org/gitlab-runner)
+```markdown
+[![GitLab issues open](https://badgen.net/gitlab/open-issues/gitlab-org/gitlab-runner)](https://gitlab.com/gitlab-org/gitlab-runner)
+```
+[![GitLab issues closed](https://badgen.net/gitlab/closed-issues/gitlab-org/gitlab-runner)](https://gitlab.com/gitlab-org/gitlab-runner)
+```markdown
+[![GitLab issues closed](https://badgen.net/gitlab/closed-issues/gitlab-org/gitlab-runner)](https://gitlab.com/gitlab-org/gitlab-runner)
+```
+[![GitLab issues total](https://badgen.net/gitlab/issues/gitlab-org/gitlab-runner)](https://gitlab.com/gitlab-org/gitlab-runner)
+```markdown
+[![GitLab issues total](https://badgen.net/gitlab/issues/gitlab-org/gitlab-runner)](https://gitlab.com/gitlab-org/gitlab-runner)
+```
+[![GitLab issues by label](https://badgen.net/gitlab/label-issues/NickBusey/HomelabOS/Bug)](https://gitlab.com/NickBusey/HomelabOS/-/issues?scope=all&state=all&label_name[]=Bug)
+```markdown
+[![GitLab issues by label](https://badgen.net/gitlab/label-issues/NickBusey/HomelabOS/Bug)](https://gitlab.com/NickBusey/HomelabOS/-/issues?scope=all&state=all&label_name[]=Bug)
+```
+[![GitLab open issues by label](https://badgen.net/gitlab/label-issues/NickBusey/HomelabOS/Bug)](https://gitlab.com/NickBusey/HomelabOS/-/issues?scope=all&state=open&label_name[]=Bug)
+```markdown
+[![GitLab issues by label](https://badgen.net/gitlab/label-issues/NickBusey/HomelabOS/Bug)](https://gitlab.com/NickBusey/HomelabOS/-/issues?scope=all&state=open&label_name[]=Bug)
+```
+[![GitLab issues by label](https://badgen.net/gitlab/label-issues/NickBusey/HomelabOS/Bug)](https://gitlab.com/NickBusey/HomelabOS/-/issues?scope=all&state=closed&label_name[]=Bug)
+```markdown
+[![GitLab issues by label](https://badgen.net/gitlab/label-issues/NickBusey/HomelabOS/Bug)](https://gitlab.com/NickBusey/HomelabOS/-/issues?scope=all&state=closed&label_name[]=Bug)
+```
+### MR's
+[![GitLab mrs](https://badgen.net/gitlab/mrs/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/merge_requests?scope=all&state=all)
+```markdown
+[![GitLab mrs](https://badgen.net/gitlab/mrs/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/merge_requests?scope=all&state=all)
+```
+[![GitLab open mrs](https://badgen.net/gitlab/open-mrs/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/merge_requests?scope=all&state=open)
+```markdown
+[![GitLab open mrs](https://badgen.net/gitlab/open-mrs/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/merge_requests?scope=all&state=opem)
+```
+[![GitLab closed mrs](https://badgen.net/gitlab/closed-mrs/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/merge_requests?scope=all&state=closed)
+```markdown
+[![GitLab closed mrs](https://badgen.net/gitlab/closed-mrs/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/merge_requests?scope=all&state=closed)
+```
+[![GitLab merged mrs](https://badgen.net/gitlab/merged-mrs/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/merge_requests?scope=all&state=merged)
+```markdown
+[![GitLab merged mrs](https://badgen.net/gitlab/merged-mrs/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/merge_requests?scope=all&state=merged)
+```
+### Branches
+[![GitLab branch](https://badgen.net/gitlab/branches/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/branches)
+
+### Releases
+[![GitLab release](https://badgen.net/gitlab/releases/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/releases)
+```markdown
+[![GitLab release](https://badgen.net/gitlab/releases/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/releases)
+```
+[![GitLab latest release](https://badgen.net/gitlab/release/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/releases)
+```markdown
+[![GitLab latest release](https://badgen.net/gitlab/release/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/releases)
+```
+### Tags
+[![GitLab tags](https://badgen.net/gitlab/tags/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/tags)
+```markdown
+[![GitLab tags](https://badgen.net/gitlab/tags/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/tags)
+```
+### Commits
+[![GitLab commit count](https://badgen.net/gitlab/commits/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/commits)
+```markdown
+[![GitLab commit count](https://badgen.net/gitlab/commits/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/commits)
+```
+[![GitLab last commit](https://badgen.net/gitlab/last-commit/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/commits)
+```markdown
+[![GitLab last commit](https://badgen.net/gitlab/last-commit/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/commits)
+```
+----
+
+## [Bitbucket](https://bitbucket.org) related
 ### Bitbucket issues
 [![Bitbucket issues](https://img.shields.io/bitbucket/issues/lbesson/bin.svg)](https://Bitbucket.org/lbesson/bin/issues/)
 ```markdown
@@ -769,9 +967,17 @@ Any [shields.io](https://shields.io/) badge can use a logo image by adding the
 ```markdown
 [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
 ```
+[![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com)
+```markdown
+[![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com)
+```
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 ```markdown
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
+```
+[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
+```markdown
+[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
 ```
 [![x11](https://img.shields.io/badge/--F28834?logo=x.org&logoColor=ffffff)](https://x.org/)
 ```markdown
@@ -780,6 +986,10 @@ Any [shields.io](https://shields.io/) badge can use a logo image by adding the
 [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/)
 ```markdown
 [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/)
+```
+[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
+```markdown
+[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
 ```
 [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
 ```markdown
@@ -801,6 +1011,10 @@ Any [shields.io](https://shields.io/) badge can use a logo image by adding the
 ```markdown
 [![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
 ```
+[![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org)
+```markdown
+[![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org)
+```
 [![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
 ```markdown
 [![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
@@ -809,7 +1023,90 @@ Any [shields.io](https://shields.io/) badge can use a logo image by adding the
 ```markdown
 [![Photoshop](https://img.shields.io/badge/--31A8FF?logo=adobe%20photoshop&logoColor=000)](https://www.photoshop.com/)
 ```
-
+[![Atom](https://badgen.net/badge/icon/atom?icon=atom&label)](https://atom.io)
+```markdown
+[![Atom](https://badgen.net/badge/icon/atom?icon=atom&label)](https://atom.io)
+```
+[![Azure](https://badgen.net/badge/icon/azure?icon=azure&label)](https://azure.microsoft.com)
+```markdown
+[![Azure](https://badgen.net/badge/icon/azure?icon=azure&label)](https://azure.microsoft.com)
+```
+[![BitCoin](https://badgen.net/badge/icon/bitcoin?icon=bitcoin&label)](https://bitcoin.org)
+```markdown
+[![BitCoin](https://badgen.net/badge/icon/bitcoin?icon=bitcoin&label)](https://bitcoin.org)
+```
+[![Buymeacoffee](https://badgen.net/badge/icon/buymeacoffee?icon=buymeacoffee&label)](https://https://www.buymeacoffee.com/)
+```markdown
+[![Buymeacoffee](https://badgen.net/badge/icon/buymeacoffee?icon=buymeacoffee&label)](https://https://www.buymeacoffee.com/)
+```
+[![CircleCI](https://badgen.net/badge/icon/circleci?icon=circleci&label)](https://https://circleci.com/)
+```markdown
+[![CircleCI](https://badgen.net/badge/icon/circleci?icon=circleci&label)](https://https://circleci.com/)
+```
+[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://https://discord.com/)
+```markdown
+[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://https://discord.com/)
+```
+[![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)
+```markdown
+[![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)
+```
+[![Eclipse](https://badgen.net/badge/icon/eclipse?icon=eclipse&label)](https://https://eclipse.org/)
+```markdown
+[![Eclipse](https://badgen.net/badge/icon/eclipse?icon=eclipse&label)](https://https://eclipse.org/)
+```
+[![GitLab](https://badgen.net/badge/icon/gitlab?icon=gitlab&label)](https://https://gitlab.com/)
+```markdown
+[![GitLab](https://badgen.net/badge/icon/gitlab?icon=gitlab&label)](https://https://gitlab.com/)
+```
+[![Jira](https://badgen.net/badge/icon/jira?icon=jira&label)](https://https://jira.com/)
+```markdown
+[![Jira](https://badgen.net/badge/icon/jira?icon=jira&label)](https://https://jira.com/)
+```
+[![JsDelivr](https://badgen.net/badge/icon/jsdelivr?icon=jsdelivr&label)](https://https://jsdelivr.com/)
+```markdown
+[![JsDelivr](https://badgen.net/badge/icon/jsdelivr?icon=jsdelivr&label)](https://https://jsdelivr.com/)
+```
+[![Maven](https://badgen.net/badge/icon/maven?icon=maven&label)](https://https://maven.apache.org/)
+```markdown
+[![Maven](https://badgen.net/badge/icon/maven?icon=maven&label)](https://https://maven.apache.org/)
+```
+[![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://https://npmjs.com/)
+```markdown
+[![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://https://npmjs.com/)
+```
+[![NuGet](https://badgen.net/badge/icon/nuget?icon=nuget&label)](https://https://nuget.org/)
+```markdown
+[![NuGet](https://badgen.net/badge/icon/nuget?icon=nuget&label)](https://https://nuget.org/)
+```
+[![Patreon](https://badgen.net/badge/icon/patreon?icon=patreon&label)](https://https://patron.com/)
+```markdown
+[![Patreon](https://badgen.net/badge/icon/patreon?icon=patreon&label)](https://https://patron.com/)
+```
+[![PyPi](https://badgen.net/badge/icon/pypi?icon=pypi&label)](https://https://pypi.org/)
+```markdown
+[![PyPi](https://badgen.net/badge/icon/pypi?icon=pypi&label)](https://https://pypi.org/)
+```
+[![Ruby](https://badgen.net/badge/icon/ruby?icon=ruby&label)](https://https://ruby-lang.org/)
+```markdown
+[![Ruby](https://badgen.net/badge/icon/ruby?icon=ruby&label)](https://https://ruby-lang.org/)
+```
+[Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
+```markdown
+[Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
+```
+[![TravisCI](https://badgen.net/badge/icon/travis?icon=travis&label)](https://travis-ci.org)
+```markdown
+[![TravisCI](https://badgen.net/badge/icon/travis?icon=travis&label)](https://travis-ci.org)
+```
+[![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com)
+```markdown
+[![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com)
+```
+[![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
+```markdown
+[![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
+```
 
 ----
 
@@ -881,7 +1178,6 @@ This is a badge to link to a [DOI](https://doi.org/):
 ## Discord
 Discord Badges
 
-
 [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vpEv3HJ)
 ```markdown
 [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vpEv3HJ)
@@ -894,7 +1190,14 @@ Discord Badges
 ```markdown
 [![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/vpEv3HJ)
 ```
-
+[![C# Discord](https://badgen.net/discord/members/csharp)](https://discord.gg/csharp)
+```markdown
+[![C# Discord](https://badgen.net/discord/members/csharp)](https://discord.gg/csharp)
+```
+[![C# Discord online members](https://badgen.net/discord/online-members/csharp)](https://discord.gg/csharp)
+```markdown
+[![C# Discord online members](https://badgen.net/discord/online-members/csharp)](https://discord.gg/csharp)
+```
 ----
 
 ## Jetbrains
@@ -991,7 +1294,10 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
 ```markdown
 ![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)
 ```
-
+[![Twitter Followers](https://badgen.net/twitter/follow/javascript)](https://twitter.com/javascript)
+```markdown
+[![Twitter Followers](https://badgen.net/twitter/follow/javascript)](https://twitter.com/javascript)
+```
 ### Built by...
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
 ```markdown
