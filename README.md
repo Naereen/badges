@@ -281,10 +281,6 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 ----
 
 ### [PyPI](https://pypi.python.org/) downloads
-[![PyPI download total](https://img.shields.io/pypi/dt/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-```markdown
-[![PyPI download total](https://img.shields.io/pypi/dt/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-```
 
 [![PyPI download month](https://img.shields.io/pypi/dm/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 ```markdown
@@ -388,31 +384,31 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 ```markdown
 [![Npm package yearly downloads](https://badgen.net/npm/dy/express)](https://npmjs.com/package/express)
 ```
-[![Npm package monthly downloads](https://badgen.net/npm/dm/express)](https://npmjs.ccom/package/express)
+[![Npm package monthly downloads](https://badgen.net/npm/dm/express)](https://npmjs.com/package/express)
 ```markdown
 [![Npm package monthly downloads](https://badgen.net/npm/dm/express)](https://npmjs.ccom/package/express)
 ```
-[![Npm package daily downloads](https://badgen.net/npm/dd/express)](https://npmjs.ccom/package/express)
+[![Npm package daily downloads](https://badgen.net/npm/dd/express)](https://npmjs.com/package/express)
 ```markdown
-[![Npm package daily downloads](https://badgen.net/npm/dm/express)](https://npmjs.ccom/package/express)
+[![Npm package daily downloads](https://badgen.net/npm/dm/express)](https://npmjs.com/package/express)
 ```
-[![Npm package total downloads](https://badgen.net/npm/dt/express)](https://npmjs.ccom/package/express)
+[![Npm package total downloads](https://badgen.net/npm/dt/express)](https://npmjs.com/package/express)
 ```markdown
-[![Npm package total downloads](https://badgen.net/npm/dt/express)](https://npmjs.ccom/package/express)
+[![Npm package total downloads](https://badgen.net/npm/dt/express)](https://npmjs.com/package/express)
 ```
 ### Miscellaneous
 
-[![Minimum node.js version](https://badgen.net/npm/node/express)](https://npmjs.ccom/package/express)
+[![Minimum node.js version](https://badgen.net/npm/node/express)](https://npmjs.com/package/express)
 ```markdown
-[![Minimum node.js version](https://badgen.net/npm/node/express)](https://npmjs.ccom/package/express)
+[![Minimum node.js version](https://badgen.net/npm/node/express)](https://npmjs.com/package/express)
 ```
-[![Npm package license](https://badgen.net/npm/license/discord.js)](https://npmjs.ccom/package/discord.js)
+[![Npm package license](https://badgen.net/npm/license/discord.js)](https://npmjs.com/package/discord.js)
 ```markdown 
-[![Npm package license](https://badgen.net/npm/llicense/discord.js)](https://npmjs.ccom/package/discord.js)
+[![Npm package license](https://badgen.net/npm/llicense/discord.js)](https://npmjs.com/package/discord.js)
 ```
 [![Npm package dependents](https://badgen.net/npm/dependents/express)](https://npmjs.ccom/package/express)
 ```markdown
-[![Npm package dependents](https://badgen.net/npm/dependents/express)](https://npmjs.ccom/package/express)
+[![Npm package dependents](https://badgen.net/npm/dependents/express)](https://npmjs.com/package/express)
 ```
 
 ----
