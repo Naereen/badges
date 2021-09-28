@@ -759,6 +759,9 @@ From [isitmaintained.com](http://isitmaintained.com):
 ```
 ### Branches
 [![GitLab branch](https://badgen.net/gitlab/branches/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/branches)
+```markdown
+[![GitLab branch](https://badgen.net/gitlab/branches/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/branches)
+```
 
 ### Releases
 [![GitLab release](https://badgen.net/gitlab/releases/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/releases)
