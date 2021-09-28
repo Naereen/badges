@@ -491,7 +491,9 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 ```
 ### GitHub branches
 [![GitHub branches](https://badgen.net/github/branches/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/)
-
+```markdown
+[![GitHub branches](https://badgen.net/github/branches/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/)
+```
 ### GitHub versions/tags/commits
 [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 ```markdown
