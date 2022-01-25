@@ -1290,7 +1290,7 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
 ```markdown
 [![ForTheBadge 20-30](http://ForTheBadge.com/images/badges/ages-20-30.svg)](http://ForTheBadge.com)
 ```
-### Twitting
+### Tweeting
 ![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)
 ```markdown
 ![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)
