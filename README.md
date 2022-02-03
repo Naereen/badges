@@ -217,11 +217,11 @@ Worse: [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://u
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
 ```
 
- #### [Binder](https://binder.pangeo.io/)
-[![Binder](https://binder.pangeo.io/badge_logo.svg)
-](https://binder.pangeo.io/v2/gh/Naereen/badges/master)
+#### [Binder](https://mybinder.org/)
+[![Binder](https://mybinder.org/badge_logo.svg)
+](https://mybinder.org/v2/gh/Naereen/badges/master)
 ```markdown
-[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/Naereen/badges/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Naereen/badges/master)
 ```
 ----
 
