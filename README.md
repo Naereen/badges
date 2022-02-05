@@ -1092,9 +1092,9 @@ Any [shields.io](https://shields.io/) badge can use a logo image by adding the
 ```markdown
 [![Ruby](https://badgen.net/badge/icon/ruby?icon=ruby&label)](https://https://ruby-lang.org/)
 ```
-[Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
+![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
 ```markdown
-[Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
+![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
 ```
 [![TravisCI](https://badgen.net/badge/icon/travis?icon=travis&label)](https://travis-ci.org)
 ```markdown
