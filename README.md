@@ -227,6 +227,11 @@ Worse: [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://u
 
 ## [Go](http://golang.org) related
 
+[![forthebadge made-with-go](http://ForTheBadge.com/images/badges/made-with-go.svg)](http://golang.org/)
+```markdown
+[![forthebadge made-with-go](http://ForTheBadge.com/images/badges/made-with-go.svg)](http://golang.org/)
+```
+
 [![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org)
 ```markdown
 [![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org)
