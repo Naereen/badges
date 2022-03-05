@@ -22,6 +22,7 @@ A list of badges, with their Markdown code, that can be included in a `README.md
       - [Google Collab](#google-collab)
       - [Binder](#binder)
   - [Go related](#go-related)
+  - [Rust related](#rust-related)
   - [Markdown related](#markdown-related)
   - [LaTeX related](#latex-related)
     - [PyPI downloads](#pypi-downloads)
@@ -225,16 +226,16 @@ Worse: [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://u
 ```
 ----
 
-## [Go](http://golang.org) related
+## [Go](https://go.dev/) related
 
-[![forthebadge made-with-go](http://ForTheBadge.com/images/badges/made-with-go.svg)](http://golang.org/)
+[![forthebadge made-with-go](http://ForTheBadge.com/images/badges/made-with-go.svg)](https://go.dev/)
 ```markdown
-[![forthebadge made-with-go](http://ForTheBadge.com/images/badges/made-with-go.svg)](http://golang.org/)
+[![forthebadge made-with-go](http://ForTheBadge.com/images/badges/made-with-go.svg)](https://go.dev/)
 ```
 
-[![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org)
+[![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](https://go.dev/)
 ```markdown
-[![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org)
+[![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](https://go.dev/)
 ```
 
 GitHub go.mod Go version (`/github/go-mod/go-version/:user/:repo`):
@@ -254,6 +255,21 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 ```markdown
 [![GoReportCard example](https://goreportcard.com/badge/github.com/nanomsg/mangos)](https://goreportcard.com/report/github.com/nanomsg/mangos)
 ```
+
+----
+
+## [Rust](https://www.rust-lang.org/) related
+
+[![forthebadge made-with-rust](http://ForTheBadge.com/images/badges/made-with-rust.svg)](https://www.rust-lang.org/)
+```markdown
+[![forthebadge made-with-rust](http://ForTheBadge.com/images/badges/made-with-rust.svg)](https://www.rust-lang.org/)
+```
+
+[![made-with-rust](https://img.shields.io/badge/Made%20with-Rust-1f425f.svg)](https://www.rust-lang.org/)
+```markdown
+[![made-with-rust](https://img.shields.io/badge/Made%20with-Rust-1f425f.svg)](https://www.rust-lang.org/)
+```
+
 
 ----
 
