@@ -71,6 +71,7 @@ A list of badges, with their Markdown code, that can be included in a `README.md
   - [Open-Source](#open-source)
   - [Meta badges ?!](#meta-badges-)
   - [DOI and Zenodo](#doi-and-zenodo)
+  - [DOI Citations](#doi-citations)
   - [Discord](#discord)
   - [Jetbrains](#jetbrains)
   - [Say thanks](#say-thanks)
@@ -1193,6 +1194,16 @@ This is a badge to link to a [DOI](https://doi.org/):
 [![DOI:10.1007/978-3-319-76207-4_15](https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg)](https://doi.org/10.1007/978-3-319-76207-4_15)
 ```markdown
 [![DOI:10.1007/978-3-319-76207-4_15](https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg)](https://doi.org/10.1007/978-3-319-76207-4_15)
+```
+
+----
+
+## DOI Citations
+This badge is showing the number of citations of a paper / DOI. Updated daily. See [HowTo](https://juleskreuer.eu/projekte/citation-badge/)
+
+[![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1126/science.1058040)](https://juleskreuer.eu/projekte/citation-badge/)
+```markdown
+[![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1126/science.1058040)](https://juleskreuer.eu/projekte/citation-badge/)
 ```
 
 ----

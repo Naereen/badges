@@ -1271,6 +1271,22 @@ This is a badge to link to a [DOI](https://doi.org/):
 
 --------------
 
+DOI Citations
+--------------
+
+This badge is showing the number of citations of a paper / DOI. Updated daily. See [HowTo](https://juleskreuer.eu/projekte/citation-badge/)
+
+|DOI Citations|
+
+.. code:: rst
+
+   |DOI Citations|
+
+   .. |DOI Citations| image:: https://api.juleskreuer.eu/citation-badge.php?doi=10.1126/science.1058040
+      :target: https://juleskreuer.eu/projekte/citation-badge/
+
+--------------
+
 `Say thanks <https://github.com/kennethreitz/saythanks.io/>`__
 --------------------------------------------------------------
 A nice badge to give a link to `saythanks.io/to/kennethreitz <https://saythanks.io/to/kennethreitz>`__ (for example).
