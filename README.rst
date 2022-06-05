@@ -113,14 +113,14 @@ Worse: |Maintenance not intended|
     .. |Website cv.lbesson.qc.to| image:: https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg
        :target: http://cv.lbesson.qc.to/
 
-|Website myfakewebsitethatshouldnotexist.at.least.i.hope|
+|Website fakesite.invalid|
 
 .. code:: rst
 
-    |Website myfakewebsitethatshouldnotexist.at.least.i.hope|
+    |Website fakesite.invalid|
 
-    .. |Website myfakewebsitethatshouldnotexist.at.least.i.hope| image:: https://img.shields.io/website-up-down-green-red/http/myfakewebsitethatshouldnotexist.at.least.i.hope.svg
-       :target: http://myfakewebsitethatshouldnotexist.at.least.i.hope/
+    .. |Website fakesite.invalid| image:: https://img.shields.io/website-up-down-green-red/http/fakesite.invalid.svg
+       :target: http://fakesite.invalid/
 
 --------------
 
@@ -1608,8 +1608,8 @@ License ? |GitHub license badges|
     :target: http://lbesson.bitbucket.org/
 .. |Website cv.lbesson.qc.to| image:: https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg
     :target: http://cv.lbesson.qc.to/
-.. |Website myfakewebsitethatshouldnotexist.at.least.i.hope| image:: https://img.shields.io/website-up-down-green-red/http/myfakewebsitethatshouldnotexist.at.least.i.hope.svg
-    :target: http://myfakewebsitethatshouldnotexist.at.least.i.hope/
+.. |Website fakesite.invalid| image:: https://img.shields.io/website-up-down-green-red/http/fakesite.invalid.svg
+    :target: http://fakesite.invalid/
 .. |Ask Me Anything !| image:: https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg
     :target: https://GitHub.com/Naereen/ama
 .. |Demandez moi n'importe quoi !| image:: https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg
