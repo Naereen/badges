@@ -723,6 +723,10 @@ From [isitmaintained.com](http://isitmaintained.com):
 ```markdown
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 ```
+[![Naereen’s](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=gotham&layout=compact)](https://github.com/chardelyce/github-readme-stats)
+```markdown
+[![Naereen’s](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=gotham&layout=compact)](https://github.com/chardelyce/github-readme-stats)
+```
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 ```markdown
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
