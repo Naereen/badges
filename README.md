@@ -324,9 +324,9 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 ```markdown
 [![PyPI version fury.io](https://badge.fury.io/py/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 ```
-[![PyPi version](https://badgen.net/pypi/v/pip/)](https://pypi.com/project/pip)
+[![PyPi version](https://badgen.net/pypi/v/pip/)](https://pypi.org/project/pip)
 ```markdown
-[![PyPi version](https://badgen.net/pypi/v/pip/)](https://pypi.com/project/pip)
+[![PyPi version](https://badgen.net/pypi/v/pip/)](https://pypi.org/project/pip)
 ```
 
 [![PyPI version shields.io](https://img.shields.io/pypi/v/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
@@ -339,9 +339,9 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 ```markdown
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 ```
-[![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.com/project/pip/)
+[![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.org/project/pip/)
 ```markdown
-[![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.com/project/pip/)
+[![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.prg/project/pip/)
 ```
 
 
