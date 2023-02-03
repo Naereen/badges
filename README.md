@@ -341,7 +341,7 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 ```
 [![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.org/project/pip/)
 ```markdown
-[![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.prg/project/pip/)
+[![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.org/project/pip/)
 ```
 
 
