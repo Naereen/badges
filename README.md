@@ -1407,6 +1407,7 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
 - The nice [LicenseButtons.net](https://licensebuttons.net/) website for licence badges :scroll:
 - This repo [open-source-badges](https://github.com/ellerbrock/open-source-badges/) by [@ellerbrock](https://github.com/ellerbrock), for open-source badges :books:
 - This small repo [awesome-badges](https://github.com/bevacqua/awesome-badges) by [@bevacqua](https://github.com/bevacqua/), for awesome and meta badges :curly_loop:
+- [Repology.org](https://repology.org/) has one huge badge to track your project's distribution and few smaller ones. For example, [the `binutils` project badge](https://repology.org/project/binutils/badges).
 - And of course, the magical [ForTheBadge.com](http://ForTheBadge.com/) website for random badges :sparkles:
 
 ## TODO :boom: ?
