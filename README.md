@@ -629,15 +629,15 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 ```markdown
 [![GitHub issues](https://badgen.net/github/issues/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/issues/)
 ```
-[![GitHub issues-open](https://badgen.net/github/open-issues/Naereen/Strapdow.js)](https://github.com/Naereen/StrapDown.js/issues?q=is%3Aopen)
+[![GitHub issues-open](https://badgen.net/github/open-issues/Naereen/StrapDown.js)](https://github.com/Naereen/StrapDown.js/issues?q=is%3Aopen)
 ```markdown
-[![GitHub issues-open](https://badgen.net/github/open-issues/Naereen/Strapdow.js)](https://github.com/Naereen/StrapDown.js/issues?q=is%3Aopen)
+[![GitHub issues-open](https://badgen.net/github/open-issues/Naereen/StrapDown.js)](https://github.com/Naereen/StrapDown.js/issues?q=is%3Aopen)
 ```
-[![GitHub issues-closed](https://img.shields.io/github/issues-closed/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub issues-closed](https://badgen.net/github/closed-issues/Naereen/StrapDown.js)](https://GitHub.com/Naereen/StrapDown.js/issues?q=is%3Aissue+is%3Aclosed)
 ```markdown
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues?q=is%3Aissue+is%3Aclosed)
 ```
-[![GitHub issues-closed](https://badgen.net/github/closed-issues/Naereen/Strapdow.js)](https://github.com/Naereen/StrapDown.js/issues?q=is%3Aclosed)
+[![GitHub issues-closed](https://badgen.net/github/closed-issues/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/issues?q=is%3Aclosed)
 ```markdown
 [![GitHub issues-closed](https://badgen.net/github/closed-issues/Naereen/Strapdow.js)](https://github.com/Naereen/StrapDown.js/issues?q=is%3Aclosed)
 ```
