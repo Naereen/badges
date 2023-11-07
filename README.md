@@ -50,7 +50,6 @@ A list of badges, with their Markdown code, that can be included in a `README.md
     - [GitHub issues](#github-issues)
     - [GitHub Pull Requests](#github-pull-requests)
     - [GitHub Make a Pull Requests](#github-make-a-pull-requests)
-    - [GitHub file size](#github-file-size)
     - [GitHub version](#github-version)
     - [GitHub hits](#github-hits)
     - [GitHub Profile](#github-profile)
@@ -692,12 +691,6 @@ From [isitmaintained.com](http://isitmaintained.com):
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 ```markdown
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-```
-
-### GitHub file size
-[![Only 32 Kb](https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js)](https://github.com/Naereen/StrapDown.js/blob/master/strapdown.min.js)
-```markdown
-[![Only 32 Kb](https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js)](https://github.com/Naereen/StrapDown.js/blob/master/strapdown.min.js)
 ```
 
 ### GitHub version
