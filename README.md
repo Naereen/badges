@@ -56,7 +56,6 @@ A list of badges, with their Markdown code, that can be included in a `README.md
   - [Bitbucket related](#bitbucket-related)
     - [Bitbucket issues](#bitbucket-issues)
   - [PackageControl related](#packagecontrol-related)
-  - [Google Analytics](#google-analytics)
   - [Licenses](#licenses)
     - [MIT License](#mit-license)
     - [GPLv3 License](#gplv3-license)
@@ -826,19 +825,6 @@ From [isitmaintained.com](http://isitmaintained.com):
 ```
 
 ----
-
-## [Google Analytics](https://analytics.google.com/)
-> **Warning**: don't forget to change your Google Analytics code, from `UA-XXXXXXXX-XX` to yours!
-
-[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/badges/README.md?pixel)](https://GitHub.com/Naereen/badges/)
-```markdown
-[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/badges/README.md?pixel)](https://GitHub.com/Naereen/badges/)
-```
-
-[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/badges/README.md)](https://GitHub.com/Naereen/badges/)
-```markdown
-[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/badges/README.md)](https://GitHub.com/Naereen/badges/)
-```
 
 ## Licenses
 ### MIT License
