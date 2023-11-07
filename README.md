@@ -605,11 +605,6 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 [![GitHub watchers](https://badgen.net/github/watchers/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
 ```markdown
 [![GitHub watchers](https://badgen.net/github/watchers/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
-```
-![Profile views](https://gpvc.arturio.dev/Naereen)
-```markdown
-![Profile views](https://gpvc.arturio.dev/Naereen)
-```
 
 ### GitHub followers
 [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
