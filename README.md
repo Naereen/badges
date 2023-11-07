@@ -555,11 +555,6 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 ```
 
-[![Github releases (by release)](https://img.shields.io/github/downloads/Naereen/StrapDown.js/v1.1/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
-```markdown
-[![Github releases (by release)](https://img.shields.io/github/downloads/Naereen/StrapDown.js/v1.1/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
-```
-
 [![Github releases (by release)](https://img.shields.io/github/downloads/Naereen/StrapDown.js/v1.0.0/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 ```markdown
 [![Github Releases (by release)](https://img.shields.io/github/downloads/Naereen/StrapDown.js/v1.0.0/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
