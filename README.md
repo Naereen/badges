@@ -51,7 +51,6 @@ A list of badges, with their Markdown code, that can be included in a `README.md
     - [GitHub Pull Requests](#github-pull-requests)
     - [GitHub Make a Pull Requests](#github-make-a-pull-requests)
     - [GitHub version](#github-version)
-    - [GitHub hits](#github-hits)
     - [GitHub Profile](#github-profile)
     - [GitHub Stars Sparklines](#github-stars-sparklines)
   - [Bitbucket related](#bitbucket-related)
@@ -699,11 +698,6 @@ From [isitmaintained.com](http://isitmaintained.com):
 [![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js)
 ```
 
-### GitHub hits
-[![HitCount](http://hits.dwyl.io/Naereen/badges.svg)](http://hits.dwyl.io/Naereen/badges)
-```markdown
-[![HitCount](http://hits.dwyl.io/Naereen/badges.svg)](http://hits.dwyl.io/Naereen/badges)
-```
 ### GitHub Profile
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 ```markdown
