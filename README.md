@@ -641,7 +641,10 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 ```markdown
 [![GitHub issues-closed](https://badgen.net/github/closed-issues/Naereen/Strapdow.js)](https://github.com/Naereen/StrapDown.js/issues?q=is%3Aclosed)
 ```
-
+[![GitHub issues-closed](https://badgen.net/github/open-issues/Naereen/StrapDown.js)](https://GitHub.com/Naereen/StrapDown.js/issues?q=is%3Aissue+is%3Aopen)
+```markdown
+[![GitHub issues-open](https://img.shields.io/github/issues-open/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues?q=is%3Aissue+is%3Aopen)
+```
 From [isitmaintained.com](http://isitmaintained.com):
 
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/Naereen/badges.svg)](http://isitmaintained.com/project/Naereen/badges "Average time to resolve an issue")
