@@ -55,9 +55,6 @@ A list of badges, with their Markdown code, that can be included in a `README.md
     - [GitHub Stars Sparklines](#github-stars-sparklines)
   - [Bitbucket related](#bitbucket-related)
     - [Bitbucket issues](#bitbucket-issues)
-    - [Bitbucket Watchers](#bitbucket-watchers)
-    - [Bitbucket Fork](#bitbucket-fork)
-    - [Bitbucket Follow](#bitbucket-follow)
   - [PackageControl related](#packagecontrol-related)
   - [Google Analytics](#google-analytics)
   - [Licenses](#licenses)
@@ -804,15 +801,6 @@ From [isitmaintained.com](http://isitmaintained.com):
 ```markdown
 [![Bitbucket issues](https://img.shields.io/bitbucket/issues/lbesson/bin.svg)](https://Bitbucket.org/lbesson/bin/issues/)
 ```
-
-### Bitbucket Watchers
-<iframe src="https://lbesson.bitbucket.io/bbbtns/bitbucket-btn.html?user=lbesson&repo=lbesson.bitbucket.io&type=watch&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
-
-### Bitbucket Fork
-<iframe src="https://lbesson.bitbucket.io/bbbtns/bitbucket-btn.html?user=lbesson&repo=lbesson.bitbucket.io&type=fork&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="156px" height="30px"></iframe>
-
-### Bitbucket Follow
-<iframe src="https://lbesson.bitbucket.io/bbbtns/bitbucket-btn.html?user=lbesson&type=follow&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="224px" height="30px"></iframe>
 
 ----
 
