@@ -50,18 +50,12 @@ A list of badges, with their Markdown code, that can be included in a `README.md
     - [GitHub issues](#github-issues)
     - [GitHub Pull Requests](#github-pull-requests)
     - [GitHub Make a Pull Requests](#github-make-a-pull-requests)
-    - [GitHub file size](#github-file-size)
     - [GitHub version](#github-version)
-    - [GitHub hits](#github-hits)
     - [GitHub Profile](#github-profile)
     - [GitHub Stars Sparklines](#github-stars-sparklines)
   - [Bitbucket related](#bitbucket-related)
     - [Bitbucket issues](#bitbucket-issues)
-    - [Bitbucket Watchers](#bitbucket-watchers)
-    - [Bitbucket Fork](#bitbucket-fork)
-    - [Bitbucket Follow](#bitbucket-follow)
   - [PackageControl related](#packagecontrol-related)
-  - [Google Analytics](#google-analytics)
   - [Licenses](#licenses)
     - [MIT License](#mit-license)
     - [GPLv3 License](#gplv3-license)
@@ -466,6 +460,7 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 
 ## [Microsoft Visual Studio Code](https://marketplace.visualstudio.com/) related
 
+<!--
 [![Badge for version for Visual Studio Code extension naereen.makefiles-support-for-vscode](https://vsmarketplacebadge.apphb.com/version/naereen.makefiles-support-for-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=naereen.makefiles-support-for-vscode)
 ```markdown
 [![Badge for version for Visual Studio Code extension naereen.makefiles-support-for-vscode](https://vsmarketplacebadge.apphb.com/version/naereen.makefiles-support-for-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=naereen.makefiles-support-for-vscode)
@@ -480,16 +475,19 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 ```markdown
 [![Badge for rating for Visual Studio Code extension naereen.makefiles-support-for-vscode](https://vsmarketplacebadge.apphb.com/rating/naereen.makefiles-support-for-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=naereen.makefiles-support-for-vscode)
 ```
+-->
 
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ```markdown
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ```
 
+<!--
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/Naereen/badges)
 ```markdown
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/Naereen/badges)
 ```
+-->
 
 ----
 
@@ -551,11 +549,6 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 ```
 
-[![Github releases (by release)](https://img.shields.io/github/downloads/Naereen/StrapDown.js/v1.1/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
-```markdown
-[![Github releases (by release)](https://img.shields.io/github/downloads/Naereen/StrapDown.js/v1.1/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
-```
-
 [![Github releases (by release)](https://img.shields.io/github/downloads/Naereen/StrapDown.js/v1.0.0/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 ```markdown
 [![Github Releases (by release)](https://img.shields.io/github/downloads/Naereen/StrapDown.js/v1.0.0/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
@@ -606,11 +599,6 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 [![GitHub watchers](https://badgen.net/github/watchers/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
 ```markdown
 [![GitHub watchers](https://badgen.net/github/watchers/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
-```
-![Profile views](https://gpvc.arturio.dev/Naereen)
-```markdown
-![Profile views](https://gpvc.arturio.dev/Naereen)
-```
 
 ### GitHub followers
 [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
@@ -635,19 +623,22 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 ```markdown
 [![GitHub issues](https://badgen.net/github/issues/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/issues/)
 ```
-[![GitHub issues-open](https://badgen.net/github/open-issues/Naereen/Strapdow.js)](https://github.com/Naereen/StrapDown.js/issues?q=is%3Aopen)
+[![GitHub issues-open](https://badgen.net/github/open-issues/Naereen/StrapDown.js)](https://github.com/Naereen/StrapDown.js/issues?q=is%3Aopen)
 ```markdown
-[![GitHub issues-open](https://badgen.net/github/open-issues/Naereen/Strapdow.js)](https://github.com/Naereen/StrapDown.js/issues?q=is%3Aopen)
+[![GitHub issues-open](https://badgen.net/github/open-issues/Naereen/StrapDown.js)](https://github.com/Naereen/StrapDown.js/issues?q=is%3Aopen)
 ```
+[![GitHub issues-closed](https://badgen.net/github/closed-issues/Naereen/StrapDown.js)](https://GitHub.com/Naereen/StrapDown.js/issues?q=is%3Aissue+is%3Aclosed)
+```markdown
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues?q=is%3Aissue+is%3Aclosed)
-```markdown
-[![GitHub issues-closed](https://img.shields.io/github/issues-closed/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues?q=is%3Aissue+is%3Aclosed)
 ```
-[![GitHub issues-closed](https://badgen.net/github/closed-issues/Naereen/Strapdow.js)](https://github.com/Naereen/StrapDown.js/issues?q=is%3Aclosed)
+[![GitHub issues-closed](https://badgen.net/github/closed-issues/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/issues?q=is%3Aclosed)
 ```markdown
 [![GitHub issues-closed](https://badgen.net/github/closed-issues/Naereen/Strapdow.js)](https://github.com/Naereen/StrapDown.js/issues?q=is%3Aclosed)
 ```
-
+[![GitHub issues-closed](https://badgen.net/github/open-issues/Naereen/StrapDown.js)](https://GitHub.com/Naereen/StrapDown.js/issues?q=is%3Aissue+is%3Aopen)
+```markdown
+[![GitHub issues-open](https://img.shields.io/github/issues-open/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues?q=is%3Aissue+is%3Aopen)
+```
 From [isitmaintained.com](http://isitmaintained.com):
 
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/Naereen/badges.svg)](http://isitmaintained.com/project/Naereen/badges "Average time to resolve an issue")
@@ -659,13 +650,12 @@ From [isitmaintained.com](http://isitmaintained.com):
 ```markdown
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/Naereen/badges.svg)](http://isitmaintained.com/project/Naereen/badges "Percentage of issues still open")
 ```
-
+### GitHub Pull Requests
 [![PR welcome issues still open](https://badgen.net/https/pr-welcome-badge.vercel.app/api/badge/fastify/help)](https://github.com/sinchang/pr-welcome-badge)
 ```markdown
 [![PR welcome issues still open](https://badgen.net/https/pr-welcome-badge.vercel.app/api/badge/fastify/help)](https://github.com/sinchang/pr-welcome-badge)
 ```
 
-### GitHub Pull Requests
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/pull/)
 ```markdown
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/pull/)
@@ -698,23 +688,12 @@ From [isitmaintained.com](http://isitmaintained.com):
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 ```
 
-### GitHub file size
-[![Only 32 Kb](https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js)](https://github.com/Naereen/StrapDown.js/blob/master/strapdown.min.js)
-```markdown
-[![Only 32 Kb](https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js)](https://github.com/Naereen/StrapDown.js/blob/master/strapdown.min.js)
-```
-
 ### GitHub version
 [![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js)
 ```markdown
 [![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js)
 ```
 
-### GitHub hits
-[![HitCount](http://hits.dwyl.io/Naereen/badges.svg)](http://hits.dwyl.io/Naereen/badges)
-```markdown
-[![HitCount](http://hits.dwyl.io/Naereen/badges.svg)](http://hits.dwyl.io/Naereen/badges)
-```
 ### GitHub Profile
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 ```markdown
@@ -822,15 +801,6 @@ From [isitmaintained.com](http://isitmaintained.com):
 [![Bitbucket issues](https://img.shields.io/bitbucket/issues/lbesson/bin.svg)](https://Bitbucket.org/lbesson/bin/issues/)
 ```
 
-### Bitbucket Watchers
-<iframe src="https://lbesson.bitbucket.io/bbbtns/bitbucket-btn.html?user=lbesson&repo=lbesson.bitbucket.io&type=watch&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
-
-### Bitbucket Fork
-<iframe src="https://lbesson.bitbucket.io/bbbtns/bitbucket-btn.html?user=lbesson&repo=lbesson.bitbucket.io&type=fork&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="156px" height="30px"></iframe>
-
-### Bitbucket Follow
-<iframe src="https://lbesson.bitbucket.io/bbbtns/bitbucket-btn.html?user=lbesson&type=follow&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="224px" height="30px"></iframe>
-
 ----
 
 ## [PackageControl](https://packagecontrol.io/) related
@@ -855,19 +825,6 @@ From [isitmaintained.com](http://isitmaintained.com):
 ```
 
 ----
-
-## [Google Analytics](https://analytics.google.com/)
-> **Warning**: don't forget to change your Google Analytics code, from `UA-XXXXXXXX-XX` to yours!
-
-[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/badges/README.md?pixel)](https://GitHub.com/Naereen/badges/)
-```markdown
-[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/badges/README.md?pixel)](https://GitHub.com/Naereen/badges/)
-```
-
-[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/badges/README.md)](https://GitHub.com/Naereen/badges/)
-```markdown
-[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/badges/README.md)](https://GitHub.com/Naereen/badges/)
-```
 
 ## Licenses
 ### MIT License
