@@ -1155,11 +1155,11 @@ This is a badge to link to a [DOI](https://doi.org/):
 ----
 
 ## DOI Citations
-This badge is showing the number of citations of a paper / DOI. Updated daily. See [HowTo](https://juleskreuer.eu/projekte/citation-badge/)
+This badge is showing the number of citations of a paper / DOI from Google Scholar. Updated daily. See [HowTo](https://juleskreuer.eu/citation-badge/)
 
-[![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1126/science.1058040)](https://juleskreuer.eu/projekte/citation-badge/)
+[![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1126/science.1058040)](https://juleskreuer.eu/citation-badge/)
 ```markdown
-[![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1126/science.1058040)](https://juleskreuer.eu/projekte/citation-badge/)
+[![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1126/science.1058040)](https://juleskreuer.eu/citation-badge/)
 ```
 
 ----
