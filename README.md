@@ -22,6 +22,7 @@ A list of badges, with their Markdown code, that can be included in a `README.md
       - [Binder](#binder)
   - [Go related](#go-related)
   - [Rust related](#rust-related)
+  - [Nix related](#nix-related)
   - [Markdown related](#markdown-related)
   - [LaTeX related](#latex-related)
     - [PyPI downloads](#pypi-downloads)
@@ -247,7 +248,12 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 [![made-with-rust](https://img.shields.io/badge/Made%20with-Rust-1f425f.svg)](https://www.rust-lang.org/)
 ```
 
+## [Nix](https://www.nixos.org/) related
 
+[![Built with Nix badge](https://img.shields.io/badge/Built_With-Nix-5277C3.svg?logo=nixos&labelColor=73C3D5)](https://www.nixos.org/)
+```markdown
+[![Built with Nix badge](https://img.shields.io/badge/Built_With-Nix-5277C3.svg?logo=nixos&labelColor=73C3D5)](https://www.nixos.org/)
+```
 ----
 
 ## [Markdown](http://commonmark.org) related
