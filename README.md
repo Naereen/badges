@@ -12,6 +12,7 @@ A list of badges, with their Markdown code, that can be included in a `README.md
   - [Generic](#generic)
   - [Useful](#useful)
     - [Maintained?](#maintained)
+    - [Related Repos](#related-repos)
     - [Website up/down](#website-updown)
   - [Feedback](#feedback)
     - [*"Ask me anything"* in English](#ask-me-anything-in-english)
@@ -114,6 +115,11 @@ Not maintained: [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-re
 Worse: [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 ```
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+```
+### Related Repos
+Related Repos: [![RelatedRepos](https://img.shields.io/badge/related-repos-yellow)](https://relatedrepos.com/gh/airbnb/javascript)
+```markdown
+[![RelatedRepos](https://img.shields.io/badge/related-repos-yellow)](https://relatedrepos.com/gh/<owner>/<repo>)
 ```
 
 ### [Website up/down](http://isup.me/)
