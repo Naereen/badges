@@ -8,6 +8,7 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 
 ## Table of content
 - [List of Badges, in Markdown](#list-of-badges-in-markdown)
+- [Commitment Issues](https://github.com/dotsystemsdevs/commitmentissues) - Free open-source web app that issues a satirical "death certificate" for abandoned GitHub repos — algorithmic cause of death, last commit as last words, severity score, profile graveyard scan.
   - [Table of content](#table-of-content)
   - [Generic](#generic)
   - [Useful](#useful)
