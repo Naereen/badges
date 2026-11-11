@@ -1315,6 +1315,12 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
 [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
 ```
 
+[![Made Openly: Human + AI](https://madeopenly.com/badge.svg?l=human-ai&s=light&z=small&v=robot)](https://madeopenly.com)
+```markdown
+[![Made Openly: Human + AI](https://madeopenly.com/badge.svg?l=human-ai&s=light&z=small&v=robot)](https://madeopenly.com)
+```
+Says how much AI helped make the project: `l=mostly-ai`, `l=human-ai` or `l=human-only`. Get your own counted badge at [madeopenly.com](https://madeopenly.com).
+
 ### Uses...
 [![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
 ```markdown
