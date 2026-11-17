@@ -537,6 +537,12 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 ```markdown
 [![GitHub latest commit](https://badgen.net/github/last-commit/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
 ```
+[![Changelog](https://release-ripple-roadmap.lovable.app/badge/github/olivierlacan/keep-a-changelog.svg)](https://release-ripple-roadmap.lovable.app/changelog-check/olivierlacan/keep-a-changelog)
+```markdown
+[![Changelog](https://release-ripple-roadmap.lovable.app/badge/github/<owner>/<repo>.svg)](https://release-ripple-roadmap.lovable.app/changelog-check/<owner>/<repo>)
+```
+Checks the repository's `CHANGELOG.md` against [Keep a Changelog](https://keepachangelog.com/) (`valid`, `N issues` or `missing`) and links to a public report of anything to fix. Make yours at [LogPulse](https://release-ripple-roadmap.lovable.app/tools/changelog-badge).
+
 ### GitHub downloads
 [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 ```markdown
