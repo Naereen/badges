@@ -139,19 +139,7 @@ Related Repos: [![RelatedRepos](https://img.shields.io/badge/related-repos-yello
 ```
 
 [![Website naereen.github.io](https://img.shields.io/website-up-down-green-red/https/naereen.github.io.svg)](https://naereen.github.io/)
-```
-
-[![Email Security](https://inbox-checker.appwrite.network/badge/inbox/stripe.com.svg)](https://inbox-checker.appwrite.network)
 ```markdown
-[![Email Security](https://inbox-checker.appwrite.network/badge/inbox/example.com.svg)](https://inbox-checker.appwrite.network/?domain=example.com)
-```
-Live domain SPF/DKIM/DMARC email authentication grade badge (`Grade A+` to `Grade F`), no signup or token needed: [inbox-checker](https://github.com/zColdWater/inboxshield-cli).
-
-[![AI CiteReady](https://citeready-checker.appwrite.network/badge/citeready/stripe.com.svg)](https://citeready-checker.appwrite.network)
-```markdown
-[![AI CiteReady](https://citeready-checker.appwrite.network/badge/citeready/example.com.svg)](https://citeready-checker.appwrite.network/?url=https://example.com)
-```
-Live `/llms.txt`, `robots.txt` AI crawler & Schema.org JSON-LD visibility score badge: [citeready-cli](https://github.com/zColdWater/citeready-cli).markdown
 [![Website naereen.github.io](https://img.shields.io/website-up-down-green-red/https/naereen.github.io.svg)](https://naereen.github.io/)
 ```
 
@@ -169,6 +157,19 @@ Live `/llms.txt`, `robots.txt` AI crawler & Schema.org JSON-LD visibility score 
 ```markdown
 [![Website fakesite.invalid](https://img.shields.io/website-up-down-green-red/http/fakesite.invalid.svg)](http://fakesite.invalid/)
 ```
+
+### Website email security & AI readiness
+[![Email Security](https://inbox-checker.appwrite.network/badge/inbox/stripe.com.svg)](https://inbox-checker.appwrite.network)
+```markdown
+[![Email Security](https://inbox-checker.appwrite.network/badge/inbox/example.com.svg)](https://inbox-checker.appwrite.network/?domain=example.com)
+```
+Live domain SPF/DKIM/DMARC email authentication grade badge (`Grade A+` to `Grade F`), no signup or token needed: [inboxshield-cli](https://github.com/zColdWater/inboxshield-cli).
+
+[![AI CiteReady](https://citeready-checker.appwrite.network/badge/citeready/stripe.com.svg)](https://citeready-checker.appwrite.network)
+```markdown
+[![AI CiteReady](https://citeready-checker.appwrite.network/badge/citeready/example.com.svg)](https://citeready-checker.appwrite.network/?url=https://example.com)
+```
+Live `/llms.txt`, `robots.txt` AI crawler & Schema.org JSON-LD visibility score badge: [citeready-cli](https://github.com/zColdWater/citeready-cli).
 
 ----
 
